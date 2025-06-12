@@ -642,19 +642,67 @@ iframe.pdf {
   z-index: 9999;
 }
 
-/* Brede weergave voor pages met tables */
+/* Reader Mode Full Optimization */
 
-.center:has(.table-container) article {
-  /* Laat artikel bijna volledige breedte gebruiken */
-  max-width: 90vw !important;
-  width: 90vw !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
+:root[reader-mode="on"] {
+  /* Smooth hide sidebars */
+  .sidebar.left,
+  .sidebar.right {
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
 
-/* Optioneel: je kan het ook beperken tot grotere schermen */
-@media (min-width: 768px) {
-  .center:has(.table-container) article {
-    max-width: 1200px !important;
+  /* Expand main content area */
+  .center {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: block;
+  }
+
+  /* Limit article width for readability */
+  .center > article {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* Tables: allow full width */
+  .table-container {
+    overflow-x: auto;
+    width: 100%;
+  }
+
+  /* Code blocks */
+  pre code {
+    font-size: 0.95rem;
+  }
+
+  /* Images: full width but limited */
+  article img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+    display: block;
+  }
+
+  /* Headings: give some extra breathing room */
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Paragraph line height: more comfortable reading */
+  p, li {
+    line-height: 1.8rem;
+    font-size: 1.05rem;
+  }
+
+  /* Footnotes spacing */
+  .footnotes {
+    margin-top: 3rem;
   }
 }
+
