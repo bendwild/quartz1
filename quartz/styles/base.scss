@@ -648,9 +648,11 @@ iframe.pdf {
 }
 
 :root[reader-mode="on"] .main-container,
-:root[reader-mode="on"] main.page {
+:root[reader-mode="on"] main.page,
+:root[reader-mode="on"] article.markdown-preview {
   max-width: 100% !important;
   width: 100% !important;
-  margin: 0 !important;
+  margin: 0 auto !important;
   padding: 0 2rem !important;
+  text-align: left !important;
 }
