@@ -1,7 +1,0 @@
----
-tags: 
-publish: 
-created: 2025-06-05T21:27
-modified: 2025-06-05T21:28
----
-Everything that I have done and accomplished stems from my network
