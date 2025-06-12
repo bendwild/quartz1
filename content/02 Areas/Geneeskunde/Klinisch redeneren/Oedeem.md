@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-10T17:12
-modified: 2025-05-10T17:20
+modified: 2025-06-13T00:21
 ---
 # Pitting oedeem
 
@@ -15,10 +15,10 @@ modified: 2025-05-10T17:20
 | Verhoogde permeabiliteit capiillairen              |                                                 | - idiopathisch oedeem                                                                                  |
 
 # Non-pitting oedeem
-- lymfoedeem
+- **lymfoedeem**
 	< obstructie door tumor/trauma
 	< aanvoer door infectie
-- myxoedeem
+- **myxoedeem**
 	< hypo/hyperthyreoïdie
 
 

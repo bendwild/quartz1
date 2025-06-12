@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-03-19T22:41
-modified: 2025-04-04T23:56
+modified: 2025-06-13T00:42
 ---
  *From clinical rotations to hands-on patient care, explore my journey in medicine and specialization in family medicine.*
 
@@ -15,6 +15,6 @@ modified: 2025-04-04T23:56
 
 # Education
 
-| **Institution**  | **Role**                        | **Years**   | **Key Activities**                                                                                                                                                                                 |
-| ---------------- | ------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ghent University | Doctor of Medicine              | 2019 - 2025 | Thesis project: *What governs the onset of aortic dissection? A synchrotron-based analysis of the early-stage disease initiation and progression of aorta dissection in Fbn1 mutant mouse models.* |
+| **Institution**  | **Role**           | **Years**   | **Key Activities**                                                                                                                                                                                 |
+| ---------------- | ------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ghent University | Doctor of Medicine | 2019 - 2025 | Thesis project: *What governs the onset of aortic dissection? A synchrotron-based analysis of the early-stage disease initiation and progression of aorta dissection in Fbn1 mutant mouse models.* |

@@ -4,11 +4,8 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-13T23:35
-modified: 2025-06-12T22:56
+modified: 2025-06-13T00:41
 ---
- 
-Belangrijkste interacties to remember
-
 # Nierinsufficiëntie
 [[NSAID]] + [[diuretica]] + ACE-I -> tripple whammy
 [[NSAID]] + anti-hypertensiva -> verminderd anti-hypertensief effect
