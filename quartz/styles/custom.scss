@@ -1,3 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.article-title {
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: auto; /* key: column width adapts to content */
+  max-width: 100%;            /* prevent overflow */
+  word-break: break-word;     /* break long words */
+  overflow-wrap: anywhere;    /* extra safety for long URLs */
+}
