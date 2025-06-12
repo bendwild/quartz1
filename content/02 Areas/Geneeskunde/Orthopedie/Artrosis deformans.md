@@ -8,10 +8,6 @@ publish: true
 created: 2025-01-16T22:12
 modified: 2025-05-23T15:46
 ---
-
-
-
-
 # Etiologie
 Artrose maakt deel uit van het normale verouderingsproces maar kan ook te wijten zijn aan heel veel andere factoren:
 - vroeger trauma

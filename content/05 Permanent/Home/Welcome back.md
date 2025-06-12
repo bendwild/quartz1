@@ -1,10 +1,12 @@
 ---
-banner: "[[maxresdefault.jpg]]"
+created: 2025-06-12T21:17
+modified: 2025-06-12T22:53
 ---
 
 ```search-bar 
 show recent files 
 ```
+
 
 --- start-multi-column: ID_guu7
 ```column-settings
