@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-16T21:49
-modified: 2025-05-10T10:01
+modified: 2025-06-12T22:56
 ---
 
 |               | MGUS                                                                                                     | Smouldering myeloma                                 | [[Multipel myeloom]]                                                                                                                                                                                                           | Primaire macroglobulinemie                                                                                                                                                                                                                                                | Light chain disease                                                                                                                       | Amyloidose                                                                                                                                                                                               |

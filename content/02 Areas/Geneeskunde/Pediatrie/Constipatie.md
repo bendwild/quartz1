@@ -5,7 +5,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-23T22:46
-modified: 2025-05-24T18:39
+modified: 2025-06-12T22:56
 ---
 # Somatische constipatie
 ## Infantiele dyschezie

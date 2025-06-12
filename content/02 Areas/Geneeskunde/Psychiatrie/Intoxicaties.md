@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-04-25T09:11
-modified: 2025-06-04T16:02
+modified: 2025-06-12T23:03
 ---
 # Klinische aanpak
 1. [[ABCDE]] stabiliseren
@@ -36,7 +36,7 @@ modified: 2025-06-04T16:02
 	- symptoom controle
 	- verminderen tox
 		- actieve kool (zou eig bij HA ook moeten kunnen)
-			- **CAVE risico op aspiratie** -> geen verminderd BWZ of [[braken]] -> chemische pneumonitis
+			- **CAVE risico op aspiratie** -> geen verminderd BWZ of [[Braken]] -> chemische pneumonitis
 			- liefst zo snel mogelijk (eerste uur) -> opname verminderen
 			- voorkeur voor watersuspensie
 			- niet zinvol voor alcohol (ethanol & methanol), zware metalen, lithium, ijzer

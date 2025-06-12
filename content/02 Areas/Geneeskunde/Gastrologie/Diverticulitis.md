@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-12T20:42
-modified: 2025-06-05T21:29
+modified: 2025-06-12T22:56
 ---
 # Epidemiologie & etiologie
 Diverticulose in westerse wereld >> Afrika & Azië

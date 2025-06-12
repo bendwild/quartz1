@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-04T20:19
-modified: 2025-05-28T00:16
+modified: 2025-06-12T22:56
 ---
 # Anatomie
 ![[image-339.png]]

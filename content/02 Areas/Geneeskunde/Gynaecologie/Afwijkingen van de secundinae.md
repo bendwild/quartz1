@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-04T16:18
-modified: 2025-05-11T14:38
+modified: 2025-06-12T22:56
 ---
 = afwijkingen in het niet-foetaal compartiment
 = placenta, navelstreng en vruchtwater

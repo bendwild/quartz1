@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T20:21
-modified: 2025-05-27T14:45
+modified: 2025-06-12T22:56
 ---
 # Overdracht & voorbeschikkende factoren
 - warm & vochtig klimaat, zweten, natte kledij

@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-02T15:46
-modified: 2025-05-02T21:15
+modified: 2025-06-12T22:56
 ---
 = immotile cilia syndrome = aangeboren ciliaire dysfunctie (1/10 000)
 

@@ -4,7 +4,7 @@ tags:
   - Nefrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-11T17:45
+modified: 2025-06-12T22:56
 ---
 = syndrome of inappropriate antidiuretic hormone secretion
 # Wat is het? 

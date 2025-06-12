@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-02T16:26
-modified: 2025-05-11T21:53
+modified: 2025-06-12T22:56
 ---
 
 |                                       | Pathofysiologie                                                                                                                                                                                                                            | Kliniek                                                                                                    | Behandeling                                                                                                         |

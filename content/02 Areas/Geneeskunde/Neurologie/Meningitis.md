@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-15T20:55
-modified: 2025-06-05T15:39
+modified: 2025-06-12T23:03
 ---
 = ontsteking van de hersenvliezen (dura mater, arachnoïdea & pia mater) en arachnoïdale ruimte
 ![[Meningitis.png]]
@@ -42,7 +42,7 @@ modified: 2025-06-05T15:39
 - meningeale prikkeling (*cardinaal symptoom*, <2j geen betekenis)
 	- nekstijfheid
 	- [[Hoofdpijn]]
-	- [[braken]]
+	- [[Braken]]
 	- BWZ-stoornissen
 	- teken van Kernig & Brudzinski positief
 

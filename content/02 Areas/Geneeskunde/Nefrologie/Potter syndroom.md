@@ -6,7 +6,7 @@ tags:
   - Genetica
 publish: true
 created: 2025-04-15T12:26
-modified: 2025-04-22T14:25
+modified: 2025-06-12T22:56
 ---
  ![[image-44.png]]
 

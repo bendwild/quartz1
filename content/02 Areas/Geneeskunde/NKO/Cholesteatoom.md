@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-08T15:05
-modified: 2025-05-27T23:33
+modified: 2025-06-12T23:22
 ---
 = benigne massa in **middenoor/buitenoor**
 - meest agressieve en lastig te behandelen vorm van chronische recidiverende [[Otitis externa]]

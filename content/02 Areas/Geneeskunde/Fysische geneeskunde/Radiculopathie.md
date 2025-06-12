@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-05T14:25
-modified: 2025-05-11T12:03
+modified: 2025-06-12T22:56
 ---
 # Radiculopathie
 = compressie/irritatie/beschadiging van een **zenuwwortel**

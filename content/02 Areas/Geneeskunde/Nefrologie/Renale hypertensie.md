@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-06T23:05
-modified: 2025-05-06T23:12
+modified: 2025-06-12T22:56
 ---
 = vorm van secundaire [[hypertensie]] door nierlijden
 

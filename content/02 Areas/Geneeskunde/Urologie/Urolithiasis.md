@@ -5,7 +5,7 @@ tags:
   - Nefrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-05T21:11
+modified: 2025-06-12T23:03
 ---
 # Etiologie
 -> vorming van kristallen in de urine
@@ -23,7 +23,7 @@ modified: 2025-06-05T21:11
 	- bewegingsdrang
 	- ev met uitstraling
 - fossa drukpijn & peritoneale prikkeling kan bij nierkoliek
-- nausea & [[braken]]
+- nausea & [[Braken]]
 - nierslagpijn ([[pyelonefritis]]?)
 
 > [!DANGER] CAVE koorts bij nierkoliek = URGENTIE
@@ -98,7 +98,7 @@ Instrueer pt om steentje op te vangen (urine zeven)
 > [!ATTENTION] Zwakke opioïden
 > Tramadol en codeïne zijn niet geïndiceerd wegens negatieve risico-baten verhouding (effect op pijn ongekend + vele ongewenste effecten en [[Interacties]]
 > - tramadol + SSRI -> [[Serotonerg syndroom]]
-> - nausea, [[braken]], [[constipatie]], euforie, gewenning
+> - nausea, [[Braken]], [[constipatie]], euforie, gewenning
 > - codeïne iets minder bijwerkingen dan tramadol
 
 > [!important] Controle
@@ -110,7 +110,7 @@ Instrueer pt om steentje op te vangen (urine zeven)
 > -> ernst pijn
 
 > [!ATTENTION] Indicaties voor hospitalisatie
-> - nausea & [[braken]] 
+> - nausea & [[Braken]] 
 > - koorts
 > - onvoldoende pijncontrole
 > - onzekere differentiaal diagnostiek

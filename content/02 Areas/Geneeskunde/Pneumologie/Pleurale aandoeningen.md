@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-02T14:08
-modified: 2025-05-11T22:53
+modified: 2025-06-12T22:56
 ---
 
 |             | [[Pneumothorax]]                                                                                                                                                                                                                                           | Pleuravochtuitstorting                                                                                                                                                                                                                                                                                                                                                                                | Pleuratumoren                                                                                                   |

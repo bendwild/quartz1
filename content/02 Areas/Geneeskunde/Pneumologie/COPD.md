@@ -4,7 +4,7 @@ tags:
   - Pneumologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T14:59
+modified: 2025-06-12T22:56
 ---
 # Pathologie
 *= chronic obstructive pulmonary disease*

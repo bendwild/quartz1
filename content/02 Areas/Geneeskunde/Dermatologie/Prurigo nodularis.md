@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-23T16:59
-modified: 2025-05-23T17:08
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 -> krabben onderhoudt aandoening, echter oorzaak onbekend

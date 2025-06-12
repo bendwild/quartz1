@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-16T15:05
-modified: 2025-05-09T11:41
+modified: 2025-06-12T22:56
 ---
 = **ziekte van Kahler**
 = plasma cell myeloma

@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-02-22T19:22
-modified: 2025-06-02T09:28
+modified: 2025-06-12T23:10
 ---
 Personen kwetsbaar aan hittegerelateerde ziekten zullen enkel maar toenemen
 - both heat waves and cold spells have impact om mortality rates
@@ -28,7 +28,7 @@ Direct
 
 Indirect
 - allergieën (bv olijfboomallergie is nieuw)
-- infecties ([[malaria]] in Griekenland, Leishmaniasis in Duitsland)
+- infecties ([[Malaria]] in Griekenland, Leishmaniasis in Duitsland)
 - cardiorespiratoire aandoeningen (wordt verergerd door hitte)
 
 Nationaal ozon- en hitteplan

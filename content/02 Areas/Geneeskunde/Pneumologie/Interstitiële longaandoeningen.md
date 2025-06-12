@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-02T12:30
-modified: 2025-05-11T22:37
+modified: 2025-06-12T22:56
 ---
 = **restrictief** [[Longlijden]] met *aantasting v/h longparenchym*
 - longvolume ↓, TLC ↓

@@ -5,14 +5,14 @@ tags:
   - Huisarts
 publish: true
 created: 2025-04-30T11:26
-modified: 2025-06-03T17:06
+modified: 2025-06-12T23:10
 ---
 ![[fever_diff_v38_web.pdf 1.pdf]]
 
 Where did you go?
 
 Incubation times!
-- [[malaria]]: 7d
+- [[Malaria]]: 7d
 - arbovirussen: 7-14d
 - enteric fever: 6-30d
 - viral haemorrhagic fever (bv ebola): 3-21d
@@ -29,10 +29,10 @@ What risk factors where you exposed to?
 
 Evaluatie van kop tot teen
 - rash (dengue, typhus, syfilis, gonorrhea, ebola...)
-- [[icterus]] ([[hepatitis]], [[malaria]], gele koorts, leptospirose)
+- [[icterus]] ([[hepatitis]], [[Malaria]], gele koorts, leptospirose)
 - lymphadenopathy (rickettsial infection, brucellosis, HIV, lassa fever, leishmaniasis)
-- hepatomegalie (amoebiasis, [[malaria]], typhoid, [[hepatitis]], leptospirose)
-- splenomegalie ([[malaria]], trypanosomiasis, typhoid, brucellosis, typhus)
+- hepatomegalie (amoebiasis, [[Malaria]], typhoid, [[hepatitis]], leptospirose)
+- splenomegalie ([[Malaria]], trypanosomiasis, typhoid, brucellosis, typhus)
 - eschar (typhus, borreliosis, crimean congo hemorrhagic fever, anthrax)
 	-> CAVE vaak op verdoken plaatsen
 - hemorrhage (lassa, marburg/ebola virus, crimean congo hemorrhagic fever, meningococcemia)

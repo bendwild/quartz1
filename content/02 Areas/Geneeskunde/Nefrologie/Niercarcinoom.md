@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-06T15:17
-modified: 2025-05-11T17:35
+modified: 2025-06-12T22:56
 ---
 # Benigne tumoren
 

@@ -4,7 +4,7 @@ tags:
   - Oftalmologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-04T13:14
+modified: 2025-06-12T23:03
 ---
 # Etiologie
 
@@ -72,6 +72,6 @@ modified: 2025-06-04T13:14
     - visusverandering
     - lichtschuwheid/fotofobie
     - misselijkheid
-    - [[braken]]
+    - [[Braken]]
 - indien de klachten 1 week na het consult niet verbeteren
 - met daarbij de uitleg dat het terugkomen vooral bedoeld is om eventuele complicaties te ontdekken (zoals keratitis of [[ulcus]]) en andere aandoeningen uit te sluiten (zoals [[allergie]] of HSV). Als zich geen complicaties voordoen, is ook bij patiënten die langer dan 1 week klachten hebben (1/4) een lokaal antibioticum niet nodig, omdat spontane genezing te verwachten is

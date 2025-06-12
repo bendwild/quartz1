@@ -6,7 +6,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-04-22T17:27
-modified: 2025-05-11T09:34
+modified: 2025-06-12T23:02
 ---
 Cardinale symptomen
 - musculoskeletale manifestaties (hypermobiliteit)
@@ -21,8 +21,8 @@ Algemene aanpak bij vermoeden van een bindweefselaandoening
 	- familiaal voorkomen TAA
 	- TAA <50-60j
 
-> [!INFO] AAA
-> -> polygenische heritabiliteit -> niet genetisch testen
+> [!info] AAA
+> = polygenetische heritabiliteit → niet genetisch testen
 
 | **Kenmerk**       | **Marfan syndroom**                                                                                                                                                                                          | **Ehlers-Danlos syndroom (EDS)**                                                                                                                                                   | **Loeys-Dietz syndroom (LDS)**                                                                                                                                                                  |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

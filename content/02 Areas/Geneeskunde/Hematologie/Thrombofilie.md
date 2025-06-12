@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T22:42
-modified: 2025-05-05T11:49
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 **Virchow's triad**

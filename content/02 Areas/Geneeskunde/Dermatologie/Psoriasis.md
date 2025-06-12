@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-20T00:08
-modified: 2025-05-23T15:37
+modified: 2025-06-12T23:10
 ---
 = essentieel erythematosquameuze huidziekte
 
@@ -25,7 +25,7 @@ modified: 2025-05-23T15:37
 	- calciumantagonisten
 	- [[NSAID]]'s
 	- lithium
-	- chloroquine (anti-[[malaria]] medicatie)
+	- chloroquine (anti-[[Malaria]] medicatie)
 - hormonale factoren
 	- oestrogeenpiek tijdens [[Zwangerschap]] werkt verbeterend
 - zonlicht

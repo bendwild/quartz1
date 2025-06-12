@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-30T15:12
-modified: 2025-06-03T21:05
+modified: 2025-06-12T23:03
 ---
 = niet penetrerend hoofdtrauma met: 
 - bij presentatie
@@ -14,7 +14,7 @@ modified: 2025-06-03T21:05
 - op moment van trauma mogelijks: 
 	- tijdelijk BWZ-verlies
 	- convulsies
-	- [[braken]]
+	- [[Braken]]
 	- [[hoofdpijn]]
 	- lethargie
 
@@ -31,7 +31,7 @@ modified: 2025-06-03T21:05
 # Risico-inschatting
 - anamnese
 	- omstandigheden trauma (oorzaak, snelheid, hoogte...)
-	- symptomen bij trauma (BWZ-verlies, amnesie, neurologische uitval, nausea, [[braken]], [[duizeligheid]]...)
+	- symptomen bij trauma (BWZ-verlies, amnesie, neurologische uitval, nausea, [[Braken]], [[duizeligheid]]...)
 	- bloedingsdiathese
 	- gekende neurologische afwijkingen
 	- comorbiditeiten?
@@ -57,7 +57,7 @@ modified: 2025-06-03T21:05
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | <0.05%                                                                                                                                                                                                                                                                                                                                | 0.05-4.3%                                                                                         | 4.3%                                                                                |
 | <2j met: <br>- normaal BWZ of BWZ-verlies <5 mins<br>- laag energetisch trauma<br>- geen voelbaar schedel trauma<br>- geen scalphematoma (tenzij frontaal)<br><br>+2j met: <br>- normaal BWZ, geen BWZ-verlies<br>- geen V+<br>- geen ernstige [[hoofdpijn]]<br>- geen tekenen van schedelbasis fractuur<br>- laag energetisch trauma | CAVE intermediaire groep grootste populatie<br>- verschil in kost & outcome tss CT en observatie? | - GCS<14<br>- palpeerbaar schedelfractuur <2j<br>- tekenen schedelbasisfractuur >2j |
-| ontslag met advies<br>-> vangnet meegeven voor zeldzame laattijdige complicaties ("hersenschudding")<br>-> geschreven instructies: slaperigheid, [[duizeligheid]], verwardheid, ernstige & langdurige [[hoofdpijn]], [[braken]]<br>-> **geen wekadvies**<br>-> 24-48u relatieve rust                                                      | CT vs observatie<br>-> afhankelijk van lokale, familiale & klinische factoren                     | CT                                                                                  |
+| ontslag met advies<br>-> vangnet meegeven voor zeldzame laattijdige complicaties ("hersenschudding")<br>-> geschreven instructies: slaperigheid, [[duizeligheid]], verwardheid, ernstige & langdurige [[hoofdpijn]], [[Braken]]<br>-> **geen wekadvies**<br>-> 24-48u relatieve rust                                                      | CT vs observatie<br>-> afhankelijk van lokale, familiale & klinische factoren                     | CT                                                                                  |
 
 - observatie
 	-> **eerste 6u zijn het belangrijkste**, weinig baat om langer te observeren indien geen compliaties

@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-29T23:40
+modified: 2025-06-12T23:11
 ---
 # Epidemiologie
 ## Kleincellig (15% SCLC)
@@ -138,7 +138,7 @@ Bijwerkingen chemo:
 - haarverlis
 - spierpijn
 - verhoogde kans op infecties
-- [[anemie]], [[Thrombopenie]]
+- [[anemie]], [[Thrombopenie 1]]
 
 ## Immunotherapie
 -> NSCLC stadium IV

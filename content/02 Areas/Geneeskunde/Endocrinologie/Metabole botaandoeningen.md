@@ -6,7 +6,7 @@ tags:
   - Orthopedie
 publish: true
 created: 2025-04-27T12:45
-modified: 2025-05-04T12:11
+modified: 2025-06-12T22:56
 ---
 
 |             | [[Osteoporose]]                                                                                                                                                                                                                                        | Osteomalacie                                                                                                                                                                       |

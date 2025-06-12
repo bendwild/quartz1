@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-02T12:29
-modified: 2025-06-01T22:30
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 - in eerste levensjaar **>>RSV**, echter andere virussen ook mogelijk

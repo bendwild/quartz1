@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-06T14:38
+modified: 2025-06-12T22:56
 ---
 = tubulaire dysfunctie door immuun-gemedieerde infiltratie in het interstitium
 =/= primair glomerulair lijden, kan wel secundair bijkomen

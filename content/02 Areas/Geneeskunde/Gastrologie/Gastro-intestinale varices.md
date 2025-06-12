@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-01T14:34
-modified: 2025-05-24T11:05
+modified: 2025-06-12T22:56
 ---
 = bloed dat zijn weg vindt langs collateralen
 

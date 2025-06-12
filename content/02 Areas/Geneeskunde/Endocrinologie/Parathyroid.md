@@ -4,7 +4,7 @@ tags:
   - Endocrinologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T14:41
+modified: 2025-06-12T22:56
 ---
 # Pathogenese
 ![[image-101.png]]

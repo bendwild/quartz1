@@ -5,7 +5,7 @@ tags:
   - Genetica
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-10T12:52
+modified: 2025-06-12T22:56
 ---
 
 |             | Down syndroom                                                                                                                                                              | Turner syndroom                                                                                                                                            | Klinefelter syndroom                                                                  | Edwards syndroom                                                                                           | Pateau syndroom                                                                                                | Triple X syndroom |

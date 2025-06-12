@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-02T13:22
-modified: 2025-04-20T11:41
+modified: 2025-06-12T22:56
 ---
 # Pathofysiologie
 = treedt voornamelijk op als **verwikkeling van een [[DVT]] (40-50% bij patiënten met [[DVT]] OL -> LE)

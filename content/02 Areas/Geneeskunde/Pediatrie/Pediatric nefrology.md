@@ -5,7 +5,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-18T18:13
-modified: 2025-05-07T12:38
+modified: 2025-06-12T22:56
 ---
 
 |                                 | Wat?                                                                                                                                                                                          | Kenmerken                                                                                                                                                                                                                                                                                                  | Behandeling                                                                                                                                   | Prognose                                                                                                                                                        |

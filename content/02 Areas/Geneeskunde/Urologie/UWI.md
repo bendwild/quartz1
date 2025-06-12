@@ -5,7 +5,7 @@ tags:
   - Gynaecologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-03T16:00
+modified: 2025-06-12T23:03
 ---
 # Wat is een UWI?
 
@@ -131,14 +131,14 @@ Recidiverend? Pijn in rug of onderbuik? aanwijzingen voor [[SOI's]]? recent onde
 - <5 jaar
 	- CAVE vaak eerste symptoom van **CAKUT** (congenital anomalies of kidney and urinary tract) (25-55%)
 - Bij lage UWI
-	- vooral GI klachten (buikpijn, anorexie, [[braken]])
+	- vooral GI klachten (buikpijn, anorexie, [[Braken]])
 - Bij hoge UWI
 	- hoge koorts en zeer ziek
 	- *elk kind met onverklaarde koorts -> urinecultuur*
 
 > [!Important] Diagnose van UWI wordt regelmatig gemist bij kinderen
 > - symptomen *aspecifiek*
-> - zelden urinaire symptomen (vaak buikpijn, anorexie, [[braken]], malaise, prikkelbaarheid...)
+> - zelden urinaire symptomen (vaak buikpijn, anorexie, [[Braken]], malaise, prikkelbaarheid...)
 
 #### Diagnose
 ##### Urinecollectie
@@ -163,8 +163,8 @@ Recidiverend? Pijn in rug of onderbuik? aanwijzingen voor [[SOI's]]? recent onde
 ### 5. Acute bacteriële hoge UWI (pyelitis/[[Pyelonefritis]])
 
 #### Kenmerken
-- Zeer ziek, hoge (ril)koorts, nausea & [[braken]], nierslagpijn
-	- bij nausea en [[braken]] -> risico op [[Dehydratatie]] -> opnemen in ZKH
+- Zeer ziek, hoge (ril)koorts, nausea & [[Braken]], nierslagpijn
+	- bij nausea en [[Braken]] -> risico op [[Dehydratatie]] -> opnemen in ZKH
 - **Alfa-1-microglobuline** (op urine) is bij hoge UWI altijd gestegen!
 - DMSA-nierscan in acute fase bevestiging diagnose
 

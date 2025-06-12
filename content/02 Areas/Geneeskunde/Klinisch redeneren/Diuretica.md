@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-06T22:49
-modified: 2025-05-26T13:20
+modified: 2025-06-12T22:56
 ---
 
 |              | Lisdiuretica                                                                                                      | Thiazide diuretica                                                                             | K-sparende diuretica                                                                                |

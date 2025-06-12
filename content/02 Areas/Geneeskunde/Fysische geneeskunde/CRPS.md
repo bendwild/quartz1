@@ -5,7 +5,7 @@ tags:
   - Fysische-geneeskunde
 publish: true
 created: 2025-03-13T21:44
-modified: 2025-05-04T11:58
+modified: 2025-06-12T22:56
 ---
 = complex regionaal pijnsyndroom
 = syndroom van Sudeck

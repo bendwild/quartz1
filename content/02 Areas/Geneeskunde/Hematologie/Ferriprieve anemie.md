@@ -5,7 +5,7 @@ tags:
   - Huisarts
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-13T12:37
+modified: 2025-06-12T22:56
 ---
 # Pathofysiologie
 -> Fe metabolisme & erythropoiese

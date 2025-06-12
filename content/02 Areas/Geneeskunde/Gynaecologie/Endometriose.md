@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-02-11T16:03
-modified: 2025-05-10T09:37
+modified: 2025-06-12T22:56
 ---
 = aanwezigheid van endometriaal weefsel (klieren/stroma) buiten baarmoeder
 ![[Endometriose.png]]

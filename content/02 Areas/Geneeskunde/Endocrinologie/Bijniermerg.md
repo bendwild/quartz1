@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-14T23:00
-modified: 2025-05-11T10:59
+modified: 2025-06-12T22:56
 ---
 # Pathofysiologie
 -> productie van **catecholamines**: 

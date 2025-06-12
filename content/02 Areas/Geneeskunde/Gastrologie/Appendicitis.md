@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-03-12T21:29
-modified: 2025-06-03T15:43
+modified: 2025-06-12T22:56
 ---
 # Epidemiologie
 = 1 v/d meest voorkomende oorzaken van [[Acute buikpijn]]

@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-23T17:55
-modified: 2025-05-23T17:57
+modified: 2025-06-12T22:56
 ---
 = oppervlakkige bacteriële infectie voetzolen door *corynebacterium minutissimum*
 

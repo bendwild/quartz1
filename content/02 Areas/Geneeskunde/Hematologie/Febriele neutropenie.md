@@ -6,7 +6,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-30T10:24
-modified: 2025-06-05T22:07
+modified: 2025-06-12T22:56
 ---
 = neutropenie (<1500/µl) & koorts (>38°C)
 - <500/µl (= ernstige neutropenie)

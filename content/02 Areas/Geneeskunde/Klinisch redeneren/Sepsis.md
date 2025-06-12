@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-04-30T11:03
-modified: 2025-06-01T23:08
+modified: 2025-06-12T23:03
 media_link: https://www.youtube.com/watch?v=L5xKW--drRg
 ---
 = life-threatening organ dysfunction secondary to dysregulated host response to infection
@@ -24,7 +24,7 @@ Sepsis bedside criteria dmv [**qSOFA-score**](https://www.mdcalc.com/calc/2654/q
 - T° >38.5C >4d
 - T° >40C
 - niet-pluis gevoel
-- recidiverend [[braken]], hevige [[diarree]] <30m
+- recidiverend [[Braken]], hevige [[diarree]] <30m
 - tekenen van meningeale prikkeling
 - gedaalde algemene toestand
 - dehydratie risico

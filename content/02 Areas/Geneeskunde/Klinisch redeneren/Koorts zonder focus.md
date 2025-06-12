@@ -5,7 +5,7 @@ tags:
   - Infectiologie
 publish: true
 created: 2025-06-01T12:25
-modified: 2025-06-03T16:50
+modified: 2025-06-12T22:56
 ---
 # Eerste evaluatie
 1. Anamnese!!

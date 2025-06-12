@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-02-02T13:22
-modified: 2025-06-02T21:06
+modified: 2025-06-12T23:09
 ---
 # Pathofysiologie
 = treedt voornamelijk op als **verwikkeling van een [[DVT]] (40-50% bij patiënten met [[DVT]] OL -> LE)
@@ -18,7 +18,7 @@ modified: 2025-06-02T21:06
 	- [[Obesitas]]
 	- COVID-19
 	- leeftijd >40j
-	- fractuur been/[[majeur trauma]]
+	- fractuur been/[[Majeur trauma]]
 	- varices
 	- post-operatief
 	- IV-lijnen

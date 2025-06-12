@@ -1,3 +1,7 @@
+---
+created: 2025-06-12T22:56
+modified: 2025-06-12T22:56
+---
 
 # 1. Goal and boundaries
 - what we are measuring 

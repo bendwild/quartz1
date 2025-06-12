@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-16T15:16
-modified: 2025-05-09T13:23
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 -> obv **prion-infectie**

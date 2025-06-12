@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-30T22:45
+modified: 2025-06-12T22:56
 ---
 # Achtergrond
 Meconium is de eerste stoelgang vd pasgeborene, in utero is er normaal GEEN meconium lozing, maar bij 10% komt dit wel voor. Meconium is visceus en kleverig, dus bij aspiratie kan de baby tijdens de geboorte in de problemen komen (meconiaal aspiratie syndroom). 

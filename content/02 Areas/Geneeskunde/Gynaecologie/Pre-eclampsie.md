@@ -5,7 +5,7 @@ tags:
   - Verloskunde
 publish: true
 created: 2025-03-02T23:07
-modified: 2025-05-29T23:40
+modified: 2025-06-12T23:11
 ---
 **= multi-systeem syndroom post-20w [[Zwangerschap]]**
 - 2-8% zwangerschappen, vooral bij: 
@@ -76,7 +76,7 @@ modified: 2025-05-29T23:40
 > - [[HELLP]]-syndroom
 > - eclampsie
 > - persisterende neurologische afwijkingen (visusstoornissen, [[hoofdpijn]], hyperreflexie)
-> - [[Thrombopenie]] <100 000/mcL
+> - [[Thrombopenie 1]] <100 000/mcL
 > - retroplacentair hematoom
 > - foetale weerslag
 

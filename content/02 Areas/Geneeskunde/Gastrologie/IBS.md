@@ -4,7 +4,7 @@ tags:
   - Gastrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T22:14
+modified: 2025-06-12T22:56
 ---
 > [!ATTENTION]
 > IBS is a **functional disorder** of the gastrointestinal tract characterized by chronic abdominal pain with constipation and/or diarrhea

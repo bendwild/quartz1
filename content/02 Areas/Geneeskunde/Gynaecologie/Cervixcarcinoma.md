@@ -5,7 +5,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-03-12T13:26
-modified: 2025-05-22T12:53
+modified: 2025-06-12T22:56
 ---
 # Epidemiologie
 - gemiddelde diagnose -> **54j**

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-20T00:08
-modified: 2025-05-07T10:33
+modified: 2025-06-12T22:56
 ---
 *=symptoom*, =/= ziekte
 -> zichtbare manifestatie van opstapeling [[Bilirubine]] in huid en mucosa 

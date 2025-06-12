@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-03-31T21:19
-modified: 2025-05-11T22:58
+modified: 2025-06-12T22:56
 ---
 = systeemaandoening gekenmerkt door aanwezigheid van **niet-verkazende granulomen** in verschillende organen
 ![[Sarcoïdose-3.png]]

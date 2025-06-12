@@ -2,7 +2,7 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2025-04-25T22:33
+modified: 2025-06-12T23:19
 ---
 This is my digital swamp, my own private messy little [[Personal knowledge management]] system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 
@@ -111,3 +111,7 @@ Here is how they grow:
 
 > [!info]   *I am an idiot most of the time, be critical*
 
+> [!ATTENTION] CAVE
+> - pijn weg na nitraten is niet aantonend
+> - pijn lokaal bij druk is niet uitsluitend
+> - [[ECG]] in de eerste uren lage NPW

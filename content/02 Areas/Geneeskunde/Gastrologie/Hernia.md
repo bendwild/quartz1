@@ -4,7 +4,7 @@ tags:
   - Gastrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-22T11:13
+modified: 2025-06-12T22:56
 media_link: https://www.youtube.com/watch?v=nmD6nZdJtuU
 ---
 

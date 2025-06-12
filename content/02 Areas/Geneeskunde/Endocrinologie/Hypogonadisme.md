@@ -6,7 +6,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-07T16:23
-modified: 2025-05-26T20:24
+modified: 2025-06-12T22:56
 ---
 # <u>Hyper</u>gonadotroop hypogonadisme
 = primair testiculaire/ovariële oorzaak

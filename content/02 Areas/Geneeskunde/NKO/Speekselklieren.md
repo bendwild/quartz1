@@ -5,7 +5,7 @@ tags:
   - Oncologie
 publish: true
 created: 2025-05-07T14:48
-modified: 2025-05-22T18:17
+modified: 2025-06-12T22:56
 ---
 # Anatomie
 ![[image-369.png]]

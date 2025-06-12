@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T23:18
-modified: 2025-05-10T10:38
+modified: 2025-06-12T22:56
 ---
 = diffuse intravasculaire coagulopathie
 - verschillende oorzaken 

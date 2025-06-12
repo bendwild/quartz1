@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-24T21:29
-modified: 2025-06-05T22:00
+modified: 2025-06-12T22:56
 ---
 # Epidemiologie
 - 5/1000 tussen leeftijd 15-79 jaar

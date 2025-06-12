@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-07T22:29
-modified: 2025-05-25T15:49
+modified: 2025-06-12T22:56
 ---
 = doorbloedingsstoornis van de [[heup]] 
 = avasculaire necrose

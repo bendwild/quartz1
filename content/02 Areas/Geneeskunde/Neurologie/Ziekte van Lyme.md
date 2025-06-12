@@ -5,7 +5,7 @@ tags:
   - Neurologie
 publish: true
 created: 2025-03-13T21:22
-modified: 2025-05-11T19:48
+modified: 2025-06-12T22:56
 ---
  # Etiologie
 - tekenbeet met Borrelia Burgdorferi

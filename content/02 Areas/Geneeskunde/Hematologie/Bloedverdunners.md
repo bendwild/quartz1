@@ -5,7 +5,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-04-21T13:57
-modified: 2025-06-02T10:00
+modified: 2025-06-12T23:11
 ---
 = middelen om risico op bloedklonters te verminderen
 
@@ -67,7 +67,7 @@ modified: 2025-06-02T10:00
 	- geen monitoring nodig
 - Heparines (LMWH, ongefractioneerd)
 	- werken indirect via anti-thrombine
-	- CAVE HIT (heparine-induced [[thrombopenie]])
+	- CAVE HIT (heparine-induced [[Thrombopenie]])
 
 > [!ATTENTION] Heparine =/= thrombolyse
 > -> thrombolyse actief interfereren

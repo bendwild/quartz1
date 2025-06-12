@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-03T22:18
-modified: 2025-05-10T13:15
+modified: 2025-06-12T22:56
 ---
 = gestoorde neuromusculaire prikkeloverdracht thv de motorische eindplaat veroorzaakt door auto-immuun reactie tegen AcH
 ![[image-320.png]]

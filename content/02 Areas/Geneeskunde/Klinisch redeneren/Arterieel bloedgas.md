@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-30T14:21
-modified: 2025-06-04T10:44
+modified: 2025-06-12T23:03
 ---
 # pH
 ## Respiratoir
@@ -18,7 +18,7 @@ modified: 2025-06-04T10:44
 
 |           | Metabole acidose                                                                                                                                                                                          | Metabole alkalose                                                                          |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Etiologie | - bicarbonaat verlies (GI, renaal, pancreas, gal...)<br>- dalen protonexcretie ([[chronische nierinsufficiëntie]])<br>- accumulatie zuren (verhoogde EW-afbraak, lactaat, ketonen....)                    | - [[braken]], [[diarree]]<br>- [[diuretica]]<br>- hypercapnie<br>- **hyperaldosteronisme** |
+| Etiologie | - bicarbonaat verlies (GI, renaal, pancreas, gal...)<br>- dalen protonexcretie ([[chronische nierinsufficiëntie]])<br>- accumulatie zuren (verhoogde EW-afbraak, lactaat, ketonen....)                    | - [[Braken]], [[diarree]]<br>- [[diuretica]]<br>- hypercapnie<br>- **hyperaldosteronisme** |
 | Kenmerken | - laag pH<br>- laag bicarbonaat                                                                                                                                                                           | - hoog pH<br>- hoog bicarbonaat                                                            |
 | CAVE      | - R/ met bicarbonaat geeft verhoogd risico op **intracellulaire acidose** -> enkel te overwegen als **pH <7.15 en symptomatisch, hyperkaliëmie...**<br>- impact acidose op elektrolyten (hyperK, hyperCa) |                                                                                            |
 ## Gecombineerd

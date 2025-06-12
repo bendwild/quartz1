@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-29T12:35
-modified: 2025-06-03T15:50
+modified: 2025-06-12T23:03
 ---
 = inflammation & necrosis of the epiploic appendages (small, fat-filled pouches that line the colon) caused by torsion or spontaneous thrombosis/embolism
 
@@ -27,7 +27,7 @@ modified: 2025-06-03T15:50
 	- vrl in lower left quadrant
 	- erger door hoesten, beweging
 - ev postprandiaal vol gevoel, early satiation
-- nausea, [[braken]]
+- nausea, [[Braken]]
 - bloating
 - [[diarree]]
 - koorts

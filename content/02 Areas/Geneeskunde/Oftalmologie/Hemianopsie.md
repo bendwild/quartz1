@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-05T12:44
-modified: 2025-04-10T16:33
+modified: 2025-06-12T22:56
 ---
 ![[image-8.png]]
 # Etiologie

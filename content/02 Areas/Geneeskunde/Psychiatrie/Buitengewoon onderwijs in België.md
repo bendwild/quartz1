@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-02-18T22:15
+modified: 2025-06-12T22:56
 ---
 # Onderwijstypes
 - Type 1: *lichte verstandelijke* handicap

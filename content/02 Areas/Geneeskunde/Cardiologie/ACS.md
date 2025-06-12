@@ -5,7 +5,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-05T19:52
+modified: 2025-06-12T23:03
 ---
 Acute Coronary Syndrome is an umbrella term for a spectrum of disease caused by ischaemia of the myocardium. Imagine it like a spectrum, with unstable angina at the less severe of the scale end, and STEMI at the other.
 - GEEN on-off fenomeen -> langzame progressief proces
@@ -21,7 +21,7 @@ Acute Coronary Syndrome is an umbrella term for a spectrum of disease caused by 
 ## Typical presentation
 - Verlengde, **drukkende** thoracale pijn (>20min)
 	- Ev met uitstraling naar [[schouder]] of arm
-	- Ev met begeleidende symptomen (malaise, zweten, [[braken]], [[dyspneu]], [[syncope]])
+	- Ev met begeleidende symptomen (malaise, zweten, [[Braken]], [[dyspneu]], [[syncope]])
 	- toenemend bij inspanning
 - Cardiovasculaire risicofactoren / comorbide aandoeningen
 
@@ -30,7 +30,7 @@ Acute Coronary Syndrome is an umbrella term for a spectrum of disease caused by 
 - Vaak presentatie met [[dyspneu]], veralgemeende zwakte en [[Duizeligheid]]
 	- enkel begeleidende klachten zoals [[dyspneu]] en nausea ook mogelijk
 - epigastrische last
-- Andere symptomen: [[syncope]], longoedeem, epigastrische pijn, [[braken]], acute verwardheid, diabetische hyperglycemie
+- Andere symptomen: [[syncope]], longoedeem, epigastrische pijn, [[Braken]], acute verwardheid, diabetische hyperglycemie
 - Meerdere klachten tegelijk *(>vrouwen)*
 
 > [!important]  

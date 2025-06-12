@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-13T11:24
-modified: 2025-06-01T11:47
+modified: 2025-06-12T22:56
 ---
 # Acuut hoesten zonder risicofactoren voor ernstig beloop
 ## Behandeling

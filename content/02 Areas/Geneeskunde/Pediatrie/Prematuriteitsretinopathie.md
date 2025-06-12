@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-23T15:09
+modified: 2025-06-12T22:56
 ---
 ## Pathofysiologie
 - **Vasculaire proliferatie in het vitreum** (bij prematuren is het netvlies nog volop in aanleg waarvoor bloedvaten in dat netvlies stoffen aanbrengen, maar bij prematuren zijn er ook veel factoren die ervoor kunnen zorgen dat er aberrante bloedvaten ontstaan die in het corpus vitreum groeien)

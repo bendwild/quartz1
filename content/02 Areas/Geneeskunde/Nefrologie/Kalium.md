@@ -4,7 +4,7 @@ tags:
   - Nefrologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-25T22:44
+modified: 2025-06-12T22:56
 ---
 = belangrijkste intracellulair elektrolyt
 ![[image-355.png]]

@@ -5,7 +5,7 @@ tags:
   - Radiologie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-05-24T17:46
+modified: 2025-06-12T22:56
 ---
 
 |                                                                       | **Echo**                                                                                                                                      | **Rx**                                                                                                                                                                                                                                 | **CT**                                                                                           | **MRI**                                                                                                                                     | **Varia**                                                                                                                                                                                                                                                                                                                              |

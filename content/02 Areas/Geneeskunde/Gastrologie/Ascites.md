@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-05-01T14:22
-modified: 2025-05-22T18:17
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 - chronisch leverlijden met [[Portale hypertensie]] (80%)

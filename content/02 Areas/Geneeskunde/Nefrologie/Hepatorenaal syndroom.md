@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-15T13:41
-modified: 2025-05-11T17:17
+modified: 2025-06-12T22:56
 ---
 # Epidemiologie
 - 10% patiënten met [[Levercirrose]] en [[ascites]]

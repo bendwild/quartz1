@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-05T20:52
-modified: 2025-05-11T16:52
+modified: 2025-06-12T22:56
 ---
 
 | Tumormerkers                                     | Type carcinoom                                                                       |

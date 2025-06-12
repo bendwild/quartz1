@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T21:47
-modified: 2025-05-11T13:30
+modified: 2025-06-12T22:56
 ---
 # Etiologie
 = respons op chronische schade of inflammatie

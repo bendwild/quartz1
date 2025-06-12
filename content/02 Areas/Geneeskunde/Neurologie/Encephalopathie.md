@@ -5,7 +5,7 @@ tags:
   - Gastrologie
 publish: true
 created: 2025-04-23T22:32
-modified: 2025-05-24T17:59
+modified: 2025-06-12T22:56
 ---
 # Hepatische encephalopathie
 ## Etiologie

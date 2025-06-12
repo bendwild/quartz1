@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-18T18:35
-modified: 2025-06-02T10:02
+modified: 2025-06-12T22:56
 ---
 # Pathofysiologie 
 

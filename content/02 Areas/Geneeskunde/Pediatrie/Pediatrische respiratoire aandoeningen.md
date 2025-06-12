@@ -5,7 +5,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-01-18T14:07
-modified: 2025-05-03T20:01
+modified: 2025-06-12T22:56
 ---
 # [[Respiratoire infecties]] 
 - >80% *viraal*

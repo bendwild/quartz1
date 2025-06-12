@@ -6,7 +6,7 @@ tags:
   - Hematologie
 publish: true
 created: 2025-05-04T16:56
-modified: 2025-05-04T18:29
+modified: 2025-06-12T22:56
 ---
 # Erythrocyten allo-immunisatie
 -> ABO

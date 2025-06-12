@@ -6,7 +6,7 @@ tags:
   - Acute-zorg
 publish: true
 created: 2025-04-29T09:14
-modified: 2025-06-02T21:15
+modified: 2025-06-12T23:03
 ---
 -> acute buikpijn <1w
 -> 5-10% spoedconsultaties
@@ -45,7 +45,7 @@ Systemische factoren
 - laatste menses
 
 > [!INFO] Enkele belangrijke vragen
-> - Eerst pijn / eerst [[braken]] (kan bv zijn dat je door de pijn begint te [[braken]])
+> - Eerst pijn / eerst [[Braken]] (kan bv zijn dat je door de pijn begint te [[Braken]])
 > - Migratiepijn
 > - Voorgeschiedenis / medicatie / [[zwangerschap]]
 > - Leeftijd

@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-04-12T14:25
-modified: 2025-05-11T10:54
+modified: 2025-06-12T22:56
 ---
 # Pathofysiologie
 ## **Adrenal cortex**

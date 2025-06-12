@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-05-05T16:51
-modified: 2025-05-11T23:12
+modified: 2025-06-12T22:56
 ---
 
 |                   | **  <br>Dwarslaesie**                                                                                                                                                           | **Whiplash-trauma**                                                                                                                                                        | **Syringomyelie & -bulbie**                                                                                                                                                                                                                                                                                                            | **ALS (amyotrofe lateraalsclerose)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Lateraalsclerose**                                                                                          | **Spinale spieratrofie**       |

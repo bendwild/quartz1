@@ -1,4 +1,7 @@
-
+---
+created: 2025-06-12T22:56
+modified: 2025-06-12T23:08
+---
 2019-2024
 - EU Green Deal
 - Adoption of Eu Climate Law

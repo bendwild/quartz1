@@ -5,7 +5,7 @@ tags:
   - Klinisch-redeneren
 publish: true
 created: 2025-02-02T12:05
-modified: 2025-05-22T11:23
+modified: 2025-06-12T22:56
 ---
 # Piekstroommeter (PEFR)
 -> vooral nuttig bij **obstructief [[Longlijden]]** zoals [[Astma]] & [[COPD]]

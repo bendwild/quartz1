@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-15T22:31
-modified: 2025-05-22T15:54
+modified: 2025-06-12T22:56
 ---
 = thrombotische thrombocytopenische purpura
 ![[TTP.png]]

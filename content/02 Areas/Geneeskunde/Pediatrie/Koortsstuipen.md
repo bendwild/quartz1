@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-03-23T21:57
-modified: 2025-06-05T17:42
+modified: 2025-06-12T22:56
 ---
 -> 3-5% kinderen
 -> zit erfelijke factor aan
