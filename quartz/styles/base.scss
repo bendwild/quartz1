@@ -647,11 +647,6 @@ iframe.pdf {
   display: none !important;
 }
 
-:root[reader-mode="on"] .sidebar.left,
-:root[reader-mode="on"] .sidebar.right {
-  display: none !important;
-}
-
 /* Kill the grid entirely */
 :root[reader-mode="on"] #quartz-body {
   all: unset !important;
@@ -661,25 +656,26 @@ iframe.pdf {
   margin: 0 auto !important;
 }
 
-/* Make sure page container goes full width */
+/* Make sure page container is centered */
 :root[reader-mode="on"] .page {
-  max-width: 100% !important;
   width: 100% !important;
+  max-width: 900px; /* you can adjust this for how wide you want the text */
   margin: 0 auto !important;
   padding: 0 2rem !important;
 }
 
-/* Center and stretch article */
+/* Center content inside the page */
 :root[reader-mode="on"] .center {
   width: 100% !important;
-  max-width: 100% !important;
+  max-width: 900px;
   margin: 0 auto !important;
   padding: 0 !important;
 }
 
 :root[reader-mode="on"] .center > article {
   width: 100% !important;
-  max-width: 100% !important;
+  max-width: 900px;
   margin: 0 auto !important;
   padding: 0 !important;
 }
+
