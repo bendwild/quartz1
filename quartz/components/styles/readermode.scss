@@ -31,4 +31,13 @@
       opacity: 1;
     }
   }
+
+  /* NEW: Expand the main content width in Reader Mode */
+  & main.page {
+    max-width: 1200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1.5rem;
+  }
 }
