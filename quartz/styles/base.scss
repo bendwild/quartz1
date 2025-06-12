@@ -658,16 +658,3 @@ iframe.pdf {
     max-width: 1200px !important;
   }
 }
-
-/* Breder artikel in reader mode */
-.center.reader-mode article {
-  max-width: 100vw !important;
-  width: 100vw !important;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Optioneel: de content ook centreren */
-.center.reader-mode {
-  margin: 0 auto;
-}
