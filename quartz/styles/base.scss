@@ -641,3 +641,16 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+:root[reader-mode="on"] .sidebar.left,
+:root[reader-mode="on"] .sidebar.right {
+  display: none !important;
+}
+
+:root[reader-mode="on"] .main-container,
+:root[reader-mode="on"] main.page {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 2rem !important;
+}
