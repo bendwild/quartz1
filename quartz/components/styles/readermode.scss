@@ -22,6 +22,7 @@
 }
 
 :root[reader-mode="on"] {
+  /* Hide sidebars as before */
   & .sidebar.left,
   & .sidebar.right {
     opacity: 0;
@@ -32,12 +33,20 @@
     }
   }
 
-  /* NEW: Expand the main content width in Reader Mode */
+  /* Expand full layout containers */
+  & .main-container {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  /* Expand page content */
   & main.page {
     max-width: 1200px;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     padding: 0 1.5rem;
   }
 }
+
