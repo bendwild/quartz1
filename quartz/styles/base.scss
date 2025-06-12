@@ -641,3 +641,18 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+/* Override tables to be full-width */
+
+.table-container {
+  overflow-x: auto;
+}
+
+.table-container table {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
