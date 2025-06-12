@@ -647,6 +647,7 @@ iframe.pdf {
   display: none !important;
 }
 
+:root[reader-mode="on"] .page,
 :root[reader-mode="on"] .main-container,
 :root[reader-mode="on"] main.page,
 :root[reader-mode="on"] article.markdown-preview {
