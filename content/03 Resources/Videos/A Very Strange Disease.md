@@ -1,0 +1,15 @@
+---
+title: A Very Strange Disease
+media_link: https://www.youtube.com/watch?v=nOsL-1RN0lQ
+author: Sisyphus 55
+published: 
+created: 2025-04-18
+description: Join this channel to get access to perks:https://www.youtube.com/channel/UCDETFHKteb-C_EaXmRKvP4w/joinPATREON🏆🏆:[https://www.patreon.com/user?u=3261155]MER...
+tags:
+  - clippings
+  - Videos
+  - Psychologie
+modified: 2025-04-18T20:14
+publish: true
+---
+![](https://www.youtube.com/watch?v=nOsL-1RN0lQ)
