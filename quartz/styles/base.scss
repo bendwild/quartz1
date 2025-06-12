@@ -642,15 +642,24 @@ iframe.pdf {
   z-index: 9999;
 }
 
-/* Reader Mode Full Optimization */
-
 :root[reader-mode="on"] {
-  /* Smooth hide sidebars */
+  /* Hide sidebars except the one with the reader mode icon, if possible */
   .sidebar.left,
   .sidebar.right {
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.2s ease;
+  }
+
+  /* But keep the reader mode toggle visible.
+     For example, if the toggle is in .sidebar.left, override here: */
+  .sidebar.left.reader-toggle-visible {
+    opacity: 1 !important;
+    pointer-events: auto !important;
+    position: fixed;  /* keep it visible on scroll */
+    top: 1rem;
+    left: 1rem;
+    z-index: 9999;
   }
 
   /* Expand main content area */
@@ -662,9 +671,9 @@ iframe.pdf {
     display: block;
   }
 
-  /* Limit article width for readability */
+  /* Remove max-width limit to make article full width */
   .center > article {
-    max-width: 1400px;
+    max-width: 100%;  /* Remove 1400px limit */
     width: 100%;
     margin: 0 auto;
   }
@@ -675,12 +684,11 @@ iframe.pdf {
     width: 100%;
   }
 
-  /* Code blocks */
+  /* Other styling tweaks */
   pre code {
     font-size: 0.95rem;
   }
 
-  /* Images: full width but limited */
   article img {
     max-width: 100%;
     height: auto;
@@ -688,21 +696,17 @@ iframe.pdf {
     display: block;
   }
 
-  /* Headings: give some extra breathing room */
   h1, h2, h3, h4, h5, h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
   }
 
-  /* Paragraph line height: more comfortable reading */
   p, li {
     line-height: 1.8rem;
     font-size: 1.05rem;
   }
 
-  /* Footnotes spacing */
   .footnotes {
     margin-top: 3rem;
   }
 }
-
