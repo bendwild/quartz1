@@ -21,35 +21,35 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
   theme: {
-    fontOrigin: "googleFonts",
-    cdnCaching: true,
-    typography: {
-    header: "Poppins",        // More modern, friendly sans-serif for headings
-    body: "Inter",            // Clean, highly legible sans-serif for body text
-    code: "IBM Plex Mono",    // Keep for code, still excellent
+  fontOrigin: "googleFonts",
+  cdnCaching: true,
+  typography: {
+    header: "Poppins",        // bold, modern sans-serif
+    body: "Inter",            // highly readable sans-serif
+    code: "IBM Plex Mono",    // solid code font
   },
   colors: {
     lightMode: {
-      light: "#fefefe",        // very bright base
-      lightgray: "#f5f5f7",    // subtle gray for contrast
-      gray: "#d1d1d6",         // slightly stronger mid-gray
-      darkgray: "#3a3a3c",     // dark gray for text
-      dark: "#1c1c1e",         // almost black for strong contrast
-      secondary: "#ff5e57",    // vibrant coral/red accent (very "thumbnail")
-      tertiary: "#ffb347",     // warm, modern orange highlight
-      highlight: "rgba(255, 94, 87, 0.1)", // light hover highlight
-      textHighlight: "#fffb0088", // vibrant yellow for highlights
+      light: "#fbf9f3",        // very light parchment-like base
+      lightgray: "#f1eee3",    // light warm gray
+      gray: "#d7d3c4",         // soft stone gray
+      darkgray: "#5f5b4f",     // earthy dark gray
+      dark: "#2f2e29",         // almost charcoal
+      secondary: "hsl(79, 60%, 50%)", // vibrant swampy green-yellow
+      tertiary: "hsl(35, 90%, 55%)",  // vibrant golden ochre (muddy orange)
+      highlight: "rgba(152, 201, 142, 0.2)", // soft green highlight
+      textHighlight: "#fff23688", // bright but warm yellow for highlights
     },
     darkMode: {
-      light: "#121212",        // true dark mode base
-      lightgray: "#1e1e1e",    // soft contrast
-      gray: "#3c3c3c",         // mid-gray
-      darkgray: "#cccccc",     // light text
-      dark: "#f1f1f1",         // very light for strong contrast text
-      secondary: "#ff5e57",    // keep accent strong in dark mode
-      tertiary: "#ffb347",
-      highlight: "rgba(255, 94, 87, 0.1)",
-      textHighlight: "#ffe34788", 
+      light: "#181612",        // deep swamp black
+      lightgray: "#2c2a24",    // soft muddy gray
+      gray: "#4b4638",         // keep some of your original mid tones
+      darkgray: "#b1a581",     // light warm sand for text
+      dark: "#f2eedf",         // light sand for strong contrast
+      secondary: "hsl(79, 55%, 45%)", // still swampy green
+      tertiary: "hsl(35, 85%, 50%)",  // golden brown-orange
+      highlight: "rgba(152, 201, 142, 0.15)", 
+      textHighlight: "#ffe34788",
         },
       },
     },
