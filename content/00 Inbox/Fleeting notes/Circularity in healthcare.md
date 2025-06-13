@@ -1,8 +1,7 @@
 ---
 created: 2025-06-12T22:56
-modified: 2025-06-12T22:56
+modified: 2025-06-13T15:21
 ---
-
 Centrally managed flow of reusable accesories throughout the hospital
 
 Buffer stockpile for resilience & supply chain stability
@@ -22,7 +21,7 @@ Environmental impact of medical technologies
 - greenhouse gas emissions 
 	- 4.4% of global emissions
 	- mainly from energy and gases
-	- device-related -> holistic life-cycle based assessment is needed (packaging, transport and reprocessin)
+	- device-related -> holistic life-cycle based assessment is needed (packaging, transport and reprocessing)
 - waste
 	- 1-2% of urban solid waste
 	- reprocessing also generates waste: PPE, chemicals, packaging

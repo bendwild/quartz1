@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-02-02T11:37
-modified: 2025-06-13T01:02
+modified: 2025-06-13T13:41
 ---
 = permanente verbreding diameter bloedvat *>50%*
 - aorta descendens >4.5 cm
@@ -47,7 +47,7 @@ modified: 2025-06-13T01:02
 
 ![[image-104.png]]
 A. Infrarenaal
-B. Juxtarenaal (rijkt net tot nierslagader)
+B. Juxtarenaal (reikt net tot nierslagader)
 C. Pararenaal (nierslagader betrokken)
 D. Paravisceraal (a. mesenterica superior betrokken)
 E. Type V thoraco-abdominaal aneurysma (truncus coeliakus betrokken)

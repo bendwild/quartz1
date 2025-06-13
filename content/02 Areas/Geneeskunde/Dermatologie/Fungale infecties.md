@@ -4,7 +4,7 @@ tags:
   - level-2🌿
 publish: true
 created: 2025-03-13T20:21
-modified: 2025-06-13T00:51
+modified: 2025-06-13T13:58
 ---
 # Overdracht & voorbeschikkende factoren
 - warm & vochtig klimaat, zweten, natte kledij
@@ -29,8 +29,8 @@ modified: 2025-06-13T00:51
 - commensaal bij mens en dier
 - kan onder bepaalde omstandigheden pathogeen wordn
 
-|                       | Wat?       | Kenmerken                                                                                                                                                                        | Voorbeeld              |
-| --------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+|                           | Wat?       | Kenmerken                                                                                                                                                                        | Voorbeeld              |
+| ------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | **Vulvovaginitis**        |            | - toenemend gebruik [[antibiotica]] bevordert infectie<br>- pruritus vulvae vaak eerste symptoom                                                                                 | ![[image-507.png]]     |
 | **Luiderdermatitis**      |            | - klassieke subcorneale pustels<br>- scherpbegrensde rand met colleretteschilfering en sattelietlesies (**eilandjes voor de kust**)                                              | ![[image-509.png]]<br> |
 | **Candidasis oris**       | = spruw    | - witte, crèmeachtige, scherpbegrensde laesies van het mondslijmvlies<br>- pijnlijk<br>- [[dysfagie]]<br>- vrl bij zuigelingen                                                   | ![[image-510.png]]     |
@@ -44,7 +44,7 @@ modified: 2025-06-13T00:51
 - hygiënische maatregelen
 	- aparte handdoek
 	- reinig huid met isobetadine zeep
-	- kledij en schoenen die veramping toelaten
+	- kledij en schoenen die verdamping toelaten
 	- vermijd contact met mensen/dieren met fungus infectie
 	- draag protectief schoeisel in openbare zwembaden en douches
 

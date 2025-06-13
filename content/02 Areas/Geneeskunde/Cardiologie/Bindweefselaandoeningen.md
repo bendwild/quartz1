@@ -6,7 +6,7 @@ tags:
   - Cardiologie
 publish: true
 created: 2025-04-22T17:27
-modified: 2025-06-12T23:02
+modified: 2025-06-13T13:46
 ---
 Cardinale symptomen
 - musculoskeletale manifestaties (hypermobiliteit)
@@ -32,3 +32,4 @@ Algemene aanpak bij vermoeden van een bindweefselaandoening
 | **Diagnose**      | - Klinische criteria **[(Ghent II)](https://marfan-expertise.net/voor-zorgverleners/zorginstrumenten/gent-ii-criteria-6/)**<br>- Sequenering FBN1<br>- Beeldvorming (echo aorta, MRI)  <br>  Familieanamnese | - Klinische criteria per subtype  <br>- Genetisch onderzoek (collageen genen)  <br>- Huidbiopt bij twijfel                                                                         | - Klinische kenmerken + genetisch onderzoek (TGFBR1/2 e.a.)  <br>- Beeldvorming aorta                                                                                                           |
 | **Behandeling**   | - Bloeddrukcontrole (β-blokkers, sartanen)  <br>- Regelmatige aortacontrole  <br>- Chirurgie bij aortawortel dilatatie  <br>- Multidisciplinaire aanpak                                                      | - Symptomatisch: wondverzorging, fysiotherapie  <br>- Vasculaire vorm: bloeddrukcontrole en chirurgische interventies  <br>- Vermijden van trauma                                  | - Strenge bloeddrukcontrole   <br>- Vroege chirurgische interventie bij [[aneurysma]]’s  <br>- Multidisciplinaire zorg                                                                          |
 | **Complicaties**  | - [[Aortadissectie]] en ruptuur  <br>- Mitralisklepprolaps  <br>- Ooglensluxatie  <br>- Scoliose en skeletdeformaties                                                                                        | - Vasculaire rupturen (vooral bij vasculaire EDS)  <br>- Gewrichtsinstabiliteit  <br>- Chronische pijn                                                                             | - Vroege en agressieve [[aortadissectie]]  <br>- Craniofaciale afwijkingen  <br>- Vasculaire rupturen                                                                                           |
+

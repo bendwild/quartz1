@@ -1,8 +1,11 @@
 ---
 created: 2025-06-12T22:56
-modified: 2025-06-13T00:16
+modified: 2025-06-13T15:21
+publish: true
+tags:
+  - climate-change
+  - level-0🫘
 ---
-
 # 1. Goal and boundaries
 - what we are measuring 
 - boundaries: organisational and operational
