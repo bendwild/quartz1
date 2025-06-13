@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "my digital swamp",
+    pageTitle: "<neural wetlands>",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
   fontOrigin: "googleFonts",
   cdnCaching: true,
   typography: {
-    header: "Merriweather",        // bold, modern sans-serif
+    header: "Poppins",        // bold, modern sans-serif
     body: "Inter",            // highly readable sans-serif
     code: "IBM Plex Mono",    // solid code font
   },
