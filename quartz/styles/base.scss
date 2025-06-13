@@ -1,8 +1,8 @@
 @use "sass:map";
 
-@use "./variables" as *;
-@use "./syntax";
-@use "./callouts";
+@use "./variables.scss" as *;
+@use "./syntax.scss";
+@use "./callouts.scss";
 
 html {
   scroll-behavior: smooth;
