@@ -20,17 +20,17 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-   theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Merriweather",
-        body: "Cabin",
-        code: "IBM Plex Mono",
-      },
-      colors: {
+  theme: {
+  fontOrigin: "googleFonts",
+  cdnCaching: true,
+  typography: {
+    header: "Merriweather",        // bold, modern sans-serif
+    body: "Inter",            // highly readable sans-serif
+    code: "IBM Plex Mono",    // solid code font
+  },
+  colors: {
         lightMode: {
-          light: "#fcfbf1",      // --color-base-00
+          light: "#e3dcd4",      // --color-base-00
           lightgray: "#f5f3e0", // --color-base-05
           gray: "#e2e4cc",      // --color-base-20
           darkgray: "#989988",  // --color-base-30
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           lightgray: "#352e23", // --color-base-05
           gray: "#4b4638",      // --color-base-30
           darkgray: "#8e7d58",  // --color-base-60
-          dark: "#d9cfb3",      // --color-base-100
+          dark: "#e3dcd4",      // --color-base-100
           secondary: "hsl(79, 20%, 45%)", // --color-accent
           tertiary: "hsl(79, 20%, 35%)",  // --color-accent-1
           highlight: "rgba(110, 140, 130, 0.15)",
