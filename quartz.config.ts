@@ -29,27 +29,27 @@ const config: QuartzConfig = {
     code: "IBM Plex Mono",    // solid code font
   },
   colors: {
-    lightMode: {
-      light: "#fbf9f3",        // very light parchment-like base
-      lightgray: "#f1eee3",    // light warm gray
-      gray: "#d7d3c4",         // soft stone gray
-      darkgray: "#5f5b4f",     // earthy dark gray
-      dark: "#2f2e29",         // almost charcoal
-      secondary: "hsl(79, 60%, 50%)", // vibrant swampy green-yellow
-      tertiary: "hsl(35, 90%, 55%)",  // vibrant golden ochre (muddy orange)
-      highlight: "rgba(152, 201, 142, 0.2)", // soft green highlight
-      textHighlight: "#fff23688", // bright but warm yellow for highlights
-    },
-    darkMode: {
-      light: "#181612",        // deep swamp black
-      lightgray: "#2c2a24",    // soft muddy gray
-      gray: "#4b4638",         // keep some of your original mid tones
-      darkgray: "#b1a581",     // light warm sand for text
-      dark: "#f2eedf",         // light sand for strong contrast
-      secondary: "hsl(79, 55%, 45%)", // still swampy green
-      tertiary: "hsl(35, 85%, 50%)",  // golden brown-orange
-      highlight: "rgba(152, 201, 142, 0.15)", 
-      textHighlight: "#ffe34788",
+        lightMode: {
+          light: "#fcfbf1",      // --color-base-00
+          lightgray: "#f5f3e0", // --color-base-05
+          gray: "#e2e4cc",      // --color-base-20
+          darkgray: "#989988",  // --color-base-30
+          dark: "#46473f",      // --color-base-40
+          secondary: "hsl(79, 25%, 67%)", // --color-accent
+          tertiary: "hsl(76, 25%, 57%)",  // --color-accent-1
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
+        darkMode: {
+          light: "#1c1a15",     // --color-base-00
+          lightgray: "#352e23", // --color-base-05
+          gray: "#4b4638",      // --color-base-30
+          darkgray: "#8e7d58",  // --color-base-60
+          dark: "#d9cfb3",      // --color-base-100
+          secondary: "hsl(79, 20%, 45%)", // --color-accent
+          tertiary: "hsl(79, 20%, 35%)",  // --color-accent-1
+          highlight: "rgba(110, 140, 130, 0.15)",
+          textHighlight: "#b7ad4e88",
         },
       },
     },
