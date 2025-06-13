@@ -20,36 +20,36 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-   theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
-      typography: {
-        header: "Merriweather",
-        body: "Cabin",
-        code: "IBM Plex Mono",
-      },
-      colors: {
-        lightMode: {
-          light: "#fcfbf1",      // --color-base-00
-          lightgray: "#f5f3e0", // --color-base-05
-          gray: "#e2e4cc",      // --color-base-20
-          darkgray: "#989988",  // --color-base-30
-          dark: "#46473f",      // --color-base-40
-          secondary: "hsl(79, 25%, 67%)", // --color-accent
-          tertiary: "hsl(76, 25%, 57%)",  // --color-accent-1
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#1c1a15",     // --color-base-00
-          lightgray: "#352e23", // --color-base-05
-          gray: "#4b4638",      // --color-base-30
-          darkgray: "#8e7d58",  // --color-base-60
-          dark: "#d9cfb3",      // --color-base-100
-          secondary: "hsl(79, 20%, 45%)", // --color-accent
-          tertiary: "hsl(79, 20%, 35%)",  // --color-accent-1
-          highlight: "rgba(110, 140, 130, 0.15)",
-          textHighlight: "#b7ad4e88",
+  theme: {
+    fontOrigin: "googleFonts",
+    cdnCaching: true,
+    typography: {
+    header: "Poppins",        // More modern, friendly sans-serif for headings
+    body: "Inter",            // Clean, highly legible sans-serif for body text
+    code: "IBM Plex Mono",    // Keep for code, still excellent
+  },
+  colors: {
+    lightMode: {
+      light: "#fefefe",        // very bright base
+      lightgray: "#f5f5f7",    // subtle gray for contrast
+      gray: "#d1d1d6",         // slightly stronger mid-gray
+      darkgray: "#3a3a3c",     // dark gray for text
+      dark: "#1c1c1e",         // almost black for strong contrast
+      secondary: "#ff5e57",    // vibrant coral/red accent (very "thumbnail")
+      tertiary: "#ffb347",     // warm, modern orange highlight
+      highlight: "rgba(255, 94, 87, 0.1)", // light hover highlight
+      textHighlight: "#fffb0088", // vibrant yellow for highlights
+    },
+    darkMode: {
+      light: "#121212",        // true dark mode base
+      lightgray: "#1e1e1e",    // soft contrast
+      gray: "#3c3c3c",         // mid-gray
+      darkgray: "#cccccc",     // light text
+      dark: "#f1f1f1",         // very light for strong contrast text
+      secondary: "#ff5e57",    // keep accent strong in dark mode
+      tertiary: "#ffb347",
+      highlight: "rgba(255, 94, 87, 0.1)",
+      textHighlight: "#ffe34788", 
         },
       },
     },
