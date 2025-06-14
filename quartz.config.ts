@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "my digital swamp",
+    pageTitle: "<digital swamp>",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
