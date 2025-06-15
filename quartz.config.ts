@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "my digital swamp",
+    pageTitle: "<digital swamp>",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -24,32 +24,32 @@ const config: QuartzConfig = {
   fontOrigin: "googleFonts",
   cdnCaching: true,
   typography: {
-    header: "Merriweather",        // bold, modern sans-serif
-    body: "Inter",            // highly readable sans-serif
-    code: "IBM Plex Mono",    // solid code font
+  header: "Poppins",        // modern sans-serif, keep
+  body: "Inter",            // very readable sans-serif, keep
+  code: "IBM Plex Mono",    // excellent for code, keep
+},
+colors: {
+  lightMode: {
+    light: "#f3efe7",      // softer, warm paper tone (background)
+    lightgray: "#e8e4da",  // subtle section backgrounds
+    gray: "#ccc7b8",       // table/grid lines, faint dividers
+    darkgray: "#7b7b6e",   // general text, soft earth
+    dark: "#2f2f29",       // header text
+    secondary: "hsl(80, 22%, 58%)",  // softened olive green
+    tertiary: "hsl(60, 18%, 45%)",   // sand yellow-beige
+    highlight: "rgba(155, 175, 165, 0.15)",  // faint highlight bg
+    textHighlight: "#fff28f88",  // pastel yellow text highlight
   },
-  colors: {
-        lightMode: {
-          light: "#e3dcd4",      // --color-base-00
-          lightgray: "#f5f3e0", // --color-base-05
-          gray: "#e2e4cc",      // --color-base-20
-          darkgray: "#989988",  // --color-base-30
-          dark: "#46473f",      // --color-base-40
-          secondary: "hsl(79, 25%, 67%)", // --color-accent
-          tertiary: "hsl(76, 25%, 57%)",  // --color-accent-1
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#1c1a15",     // --color-base-00
-          lightgray: "#352e23", // --color-base-05
-          gray: "#4b4638",      // --color-base-30
-          darkgray: "#8e7d58",  // --color-base-60
-          dark: "#e3dcd4",      // --color-base-100
-          secondary: "hsl(79, 20%, 45%)", // --color-accent
-          tertiary: "hsl(79, 20%, 35%)",  // --color-accent-1
-          highlight: "rgba(110, 140, 130, 0.15)",
-          textHighlight: "#b7ad4e88",
+  darkMode: {
+    light: "#181712",      // dark warm background
+    lightgray: "#2d291f",  // blockquote or callouts
+    gray: "#3f3a2f",       // dividers and subtle borders
+    darkgray: "#918a77",   // body text in dark mode
+    dark: "#e3e0d4",       // header text light mode
+    secondary: "hsl(80, 20%, 40%)",  // deeper olive
+    tertiary: "hsl(60, 15%, 35%)",   // muted gold sand
+    highlight: "rgba(100, 120, 100, 0.15)",
+    textHighlight: "#bfb36a88",  // muted yellow highlight
         },
       },
     },
