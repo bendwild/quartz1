@@ -3,7 +3,7 @@ tags:
   - Quartz
 publish: true
 created: 2025-04-24T22:56
-modified: 2025-06-15T22:50
+modified: 2025-06-15T23:21
 ---
 # 1. Installation 
 
@@ -18,40 +18,32 @@ I have zero experience in coding or website design so have abused chatGPT extens
 ## Config.ts
 
 - Change title page
- `configuration: {pageTitle: "<digital swamp>",`
-
 ```
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
-
-/**
- * Quartz 4 **Configuration**
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
-const config: QuartzConfig = {
   configuration: {
-    pageTitle: "<digital swamp>", // CHANGE TITLE
-    pageTitleSuffix: "",
-    enableSPA: true,
-    enablePopovers: true,
+    pageTitle: "<digital swamp>",
+    pageTitleSuffix: "sediments of the mind",
+```
+
+- Enable google analytics
+```
     analytics: {
-      provider: "google",          // GOOGLE ANALYTICS
+      provider: "google",          
       tagId: "G-RCYN3NJ7Y9"
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
-  theme: {
-  fontOrigin: "googleFonts",
+```
+
+- Custom font
+```
+fontOrigin: "googleFonts",
   cdnCaching: true,
-  typography: {            // CUSTOM TYPOGRAPHY WITH GOOGLE FONTS
+  typography: {            
   header: "Poppins",        
   body: "Inter",           
-  code: "IBM Plex Mono",    
-},
-colors: {                  // CUSTOM THEME AND COLOR SET
+  code: "IBM Plex Mono", 
+```
+
+- Custom theme
+```
+colors: {                
   lightMode: {
     light: "#f3efe7",      
     lightgray: "#e8e4da",  
@@ -77,50 +69,8 @@ colors: {                  // CUSTOM THEME AND COLOR SET
       },
     },
   },
-  plugins: {
-    transformers: [
-      Plugin.FrontMatter(),
-      Plugin.HardLineBreaks(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
-      Plugin.ObsidianFlavoredMarkdown({ 
-        enableInHtmlEmbed: true,
-        enableCheckbox: true
-      }),
-      Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
-    ],
-    filters: [Plugin.ExplicitPublish()],
-    emitters: [
-      Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
-      Plugin.ContentPage(),
-      Plugin.FolderPage(),
-      Plugin.TagPage(),
-      Plugin.ContentIndex({
-        enableSiteMap: true,
-        enableRSS: true,
-      }),
-      Plugin.Assets(),
-      Plugin.Static(),
-      Plugin.Favicon(),
-      Plugin.NotFoundPage(),
-    ],
-  },
-}
+```
 
-export default config
 ```
 
 ## Layout.ts
