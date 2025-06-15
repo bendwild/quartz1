@@ -4,7 +4,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-01-17T22:55
+modified: 2025-06-15T21:43
 ---
 Meer dan formele dekolonisatie **>** 1950-1999 -**>** eerder dekolonisatie van een neo-koloniale wereld, geen sprake van globale macht en materiële welvaart
 
