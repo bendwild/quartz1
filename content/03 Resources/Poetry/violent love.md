@@ -4,7 +4,7 @@ tags:
   - Relationships
 publish: true
 created: 2025-04-13T12:27
-modified: 2025-04-15T22:01
+modified: 2025-06-13T16:16
 ---
 i killed a plant once
 because i overwatered it

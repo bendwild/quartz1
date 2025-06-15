@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-13T14:01
-modified: 2025-06-13T14:30
+modified: 2025-06-13T16:16
 ---
 → charting a course to net zero emission for the European healthcare sector
 # Background

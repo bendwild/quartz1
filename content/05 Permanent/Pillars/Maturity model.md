@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-08T23:33
+modified: 2025-06-13T16:16
 ---
 Notes in my swamp grow and evolve, just like plants in nature. I utilize a [[Maturity model]] to describe the evolution of my notes. A maturity model can be viewed as a playful application of structured growth. 
 Here is how they grow: 

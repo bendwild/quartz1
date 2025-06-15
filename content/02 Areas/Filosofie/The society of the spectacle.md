@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-15T00:05
+modified: 2025-06-13T16:17
 ---
 big parts of our life become about consuming the raw signifiers (ideology without ideology) of the experience, and in doing so we distance ourselves from the broader context or implications of that activity and create asense of alienation
 

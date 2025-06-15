@@ -3,7 +3,7 @@ tags:
   - Finance
 publish: true
 created: 2025-04-14T14:42
-modified: 2025-04-14T21:00
+modified: 2025-06-13T16:16
 ---
 = Financial Independence, Retire Early 
 -> for me, don't want to retire early but hope to achieve financial independence early

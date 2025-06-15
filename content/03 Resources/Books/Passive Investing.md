@@ -12,7 +12,7 @@ rating:
   - ⭐⭐⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-15T00:03
+modified: 2025-06-13T16:16
 banner: Passive investing.png
 ---
 # Thoughts

@@ -12,7 +12,7 @@ tags:
   - "#level-0🫘"
   - Videos
 publish: true
-modified: 2025-04-23T10:26
+modified: 2025-06-13T16:16
 ---
 
 See here the full speech: https://www.youtube.com/watch?v=O8k0yO-deoA&ab\_channel=CalebMaupin

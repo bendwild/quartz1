@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-03-19T22:41
-modified: 2025-06-13T00:42
+modified: 2025-06-13T16:16
 ---
  *From clinical rotations to hands-on patient care, explore my journey in medicine and specialization in family medicine.*
 

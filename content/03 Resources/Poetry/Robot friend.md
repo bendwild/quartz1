@@ -4,7 +4,7 @@ tags:
   - Filosofie
 publish: true
 created: 2025-04-13T12:03
-modified: 2025-04-13T12:04
+modified: 2025-06-13T16:16
 ---
  robot friend does not agree
  'failure' is inability to fullfill directive
