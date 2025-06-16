@@ -2,12 +2,14 @@
 title: ExplicitPublish
 tags:
   - plugin/filter
+created: 2025-06-12T15:07
+modified: 2025-06-16T08:59
 ---
 
 This plugin filters content based on an explicit `publish` flag in the frontmatter, allowing only content that is explicitly marked for publication to pass through. It's the opt-in version of [[RemoveDrafts]]. See [[private pages]] for more information.
 
 > [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> For information on how to add, remove or configure plugins, see the [[Configuration#Plugins|Configuration]] page.
 
 This plugin has no configuration options.
 

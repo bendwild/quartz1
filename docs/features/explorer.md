@@ -1,12 +1,14 @@
 ---
-title: "Explorer"
+title: Explorer
 tags:
   - component
+created: 2025-06-12T15:07
+modified: 2025-06-16T08:59
 ---
 
 Quartz features an explorer that allows you to navigate all files and folders on your site. It supports nested folders and is highly customizable.
 
-By default, it shows all folders and files on your page. To display the explorer in a different spot, you can edit the [[layout]].
+By default, it shows all folders and files on your page. To display the explorer in a different spot, you can edit the [[Layout]].
 
 Display names for folders get determined by the `title` frontmatter field in `folder/index.md` (more detail in [[authoring content | Authoring Content]]). If this file does not exist or does not contain frontmatter, the local folder name will be used instead.
 

@@ -2,12 +2,14 @@
 title: ObsidianFlavoredMarkdown
 tags:
   - plugin/transformer
+created: 2025-06-12T15:07
+modified: 2025-06-16T08:59
 ---
 
 This plugin provides support for [[Obsidian compatibility]].
 
 > [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> For information on how to add, remove or configure plugins, see the [[Configuration#Plugins|Configuration]] page.
 
 This plugin accepts the following configuration options:
 

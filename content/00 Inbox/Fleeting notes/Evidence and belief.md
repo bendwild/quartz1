@@ -4,9 +4,9 @@ tags:
   - Research
 publish: true
 created: 2025-06-02T10:06
-modified: 2025-06-02T10:28
+modified: 2025-06-16T09:17
 ---
-Fraudulent papers in the age of mass-publication (career-advancement vs truth)
+Fraudulent papers in the age of mass-publication (career-advancement vs truth). Notable examples include: 
 - J. Cruz
 - Boldt
 - Yoshitaka Fujii 

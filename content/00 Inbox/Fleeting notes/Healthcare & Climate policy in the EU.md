@@ -1,6 +1,6 @@
 ---
 created: 2025-06-12T22:56
-modified: 2025-06-12T23:08
+modified: 2025-06-16T09:17
 ---
 2019-2024
 - EU Green Deal
@@ -27,5 +27,3 @@ EU member states climate policy framework
 		-> CAVE not big focus on healthcare
 - planning towards 2040
 - revision of the governance regulation
-
-![[Pasted image 20250610123746.png]]

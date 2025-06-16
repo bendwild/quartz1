@@ -2,14 +2,16 @@
 title: Assets
 tags:
   - plugin/emitter
+created: 2025-06-12T15:07
+modified: 2025-06-16T08:59
 ---
 
-This plugin emits all non-Markdown static assets in your content folder (like images, videos, HTML, etc). The plugin respects the `ignorePatterns` in the global [[configuration]].
+This plugin emits all non-Markdown static assets in your content folder (like images, videos, HTML, etc). The plugin respects the `ignorePatterns` in the global [[Configuration]].
 
 Note that all static assets will then be accessible through its path on your generated site, i.e: `host.me/path/to/static.pdf`
 
 > [!note]
-> For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
+> For information on how to add, remove or configure plugins, see the [[Configuration#Plugins|Configuration]] page.
 
 This plugin has no configuration options.
 

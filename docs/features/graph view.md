@@ -1,7 +1,9 @@
 ---
-title: "Graph View"
+title: Graph View
 tags:
   - component
+created: 2025-06-12T15:07
+modified: 2025-06-16T08:59
 ---
 
 Quartz features a graph-view that can show both a local graph view and a global graph view.
@@ -14,7 +16,7 @@ By default, the node radius is proportional to the total number of incoming and 
 Additionally, similar to how browsers highlight visited links a different colour, the graph view will also show nodes that you have visited in a different colour.
 
 > [!info]
-> Graph View requires the `ContentIndex` emitter plugin to be present in the [[configuration]].
+> Graph View requires the `ContentIndex` emitter plugin to be present in the [[Configuration]].
 
 ## Customization
 

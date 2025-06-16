@@ -2,11 +2,11 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2025-06-12T23:19
+modified: 2025-06-16T09:11
 ---
 This is my digital swamp, my own private messy little [[Personal knowledge management]] system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 
-What began as a structured repository for the ever-increasing number of medicine notes and summaries has transformed into a free-from, work-in progress wiki of my life. I write for myself, to exercise my mind and nurture ideas, but this swamp is open to all who wander in. I write both in Dutch as in English, depending on the content. 
+What began as a structured repository for the ever-increasing number of medicine notes and summaries has transformed into a free-from, work-in progress wiki of my life. I write for myself, to exercise my mind and nurture ideas, but this swamp is open to all who wander in. I write in Dutch and English depending on the content. 
 
 Whether you’re here for curiosity, inspiration, or just to wade around, I hope you find something useful, thought-provoking, or at least entertaining. If you want to learn more [[About me]], what I do, or why I be, you can visit my [[Personal portfolio]] or send me a [message](https://www.linkedin.com/in/benjamin-de-wilde-he-him-71b793211/). 
 
@@ -14,7 +14,7 @@ Whether you’re here for curiosity, inspiration, or just to wade around, I hope
 
 ## **Why a Swamp?**
 
-Swamps are messy but teeming with life. They're ecosystems of interconnected organisms, constantly shifting and adapting. Similarly, this digital swamp doesn't strive for perfection—it's about exploration and experimentation. Not every note here is polished or fully formed, and most of them will only make sense to me. However hidden within the wilderness of unplanned hypertext sprawl interesting interesting creatures lie dormant. The phrase "digital swamp" therefor is a metaphor for the slow growth of ideas through writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there. 
+Swamps are messy but teeming with life. They're ecosystems of interconnected organisms, constantly shifting and adapting. Similarly, this digital swamp doesn't strive for perfection; it's about exploration and experimentation. Not every note here is polished or fully formed, and most of them will only make sense to me. However hidden within the wilderness of unplanned hypertext sprawl interesting creatures lie dormant. The phrase "digital swamp" therefor is a metaphor for the slow growth of ideas through writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there. 
 
 Also... Shrek is an icon. 
 ![[giphy.webp]]
@@ -82,8 +82,7 @@ Here is how they grow:
 
 **Hosting:** I use [Github pages](https://pages.github.com) to publish the bundle of HTML, JS, and CSS files to the web. 
 
-
-> [!info] In my [[Log book]] you can find the painstaking process of a coding illiterate creating his rudimentary quartz set-up
+> [!info] In my [[Logbook]] you can find the painstaking process of a coding illiterate creating his rudimentary quartz set-up
 
 ### How to get started?
 **Choose a platform**: Tools like [Obsidian](https://obsidian.md), [Notion](https://www.notion.so), [RoamResearch](https://roamresearch.com), or [TiddlyWiki](https://tiddlywiki.com) are all excellent picks. Avoid choosing platforms you don't own or might go under. Using old-school, reliable, and widely used web native formats like HTML/CSS is a safe bet. Services like [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) and static site generators like [Jekyll](https://jekyllrb.com/) , [Gatsby](https://www.gatsbyjs.com/docs/) , [11ty](https://www.11ty.dev/) and [Next](https://nextjs.org/) can be used to host your garden. There are a lot of free options, however for people not home in web development or ICT in general (like me), it can be quite scary in the beginning. Try sticking to the basics initially and look foor tools that balance ease of use with flexibility.
@@ -110,8 +109,3 @@ Here is how they grow:
 > [!info] *This is a rendering of my local obsidian notes, some components may not work and can be visualized differently*
 
 > [!info]   *I am an idiot most of the time, be critical*
-
-> [!ATTENTION] CAVE
-> - pijn weg na nitraten is niet aantonend
-> - pijn lokaal bij druk is niet uitsluitend
-> - [[ECG]] in de eerste uren lage NPW
