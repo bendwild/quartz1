@@ -9,7 +9,6 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "<digital swamp>",
-    pageTitleSuffix: "sediments of the mind",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
