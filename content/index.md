@@ -2,7 +2,7 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2025-06-16T09:11
+modified: 2025-06-22T14:21
 ---
 This is my digital swamp, my own private messy little [[Personal knowledge management]] system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 

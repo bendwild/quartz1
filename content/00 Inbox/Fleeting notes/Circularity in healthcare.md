@@ -1,6 +1,6 @@
 ---
 created: 2025-06-12T22:56
-modified: 2025-06-13T15:21
+modified: 2025-07-01T22:51
 ---
 Centrally managed flow of reusable accesories throughout the hospital
 
@@ -15,7 +15,6 @@ A holistic, harmonised assessment framework is urgently needed
 - the risk for unintended consequences
 	- patient safety
 	- extra burden for staff
-
 
 Environmental impact of medical technologies
 - greenhouse gas emissions 
