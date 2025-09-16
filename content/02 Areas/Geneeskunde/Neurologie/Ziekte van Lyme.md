@@ -5,9 +5,9 @@ tags:
   - Neurologie
 publish: true
 created: 2025-03-13T21:22
-modified: 2025-06-12T22:56
+modified: 2025-07-18T22:40
 ---
- # Etiologie
+# Etiologie
 - tekenbeet met Borrelia Burgdorferi
 
 > [!ATTENTION] <24u teek verwijderd -> geen risico op besmetting
