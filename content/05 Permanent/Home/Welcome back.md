@@ -1,13 +1,12 @@
 ---
 created: 2025-06-12T21:17
-modified: 2025-06-15T23:33
+modified: 2025-09-22T09:53
 banner: "![[content/06 Toolkit/pixel-banner-images/maxresdefault.jpg]]"
 ---
 
 ```search-bar 
 show recent files 
 ```
-
 
 --- start-multi-column: ID_guu7
 ```column-settings

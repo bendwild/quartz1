@@ -4,7 +4,7 @@ tags:
   - level-3🌴
 publish: true
 created: 2025-01-26T22:05
-modified: 2025-06-02T20:52
+modified: 2025-09-23T10:05
 ---
 # Pathofysiologie 
 -> mechanisme van falen 
@@ -12,7 +12,7 @@ modified: 2025-06-02T20:52
 
 -> compensatiemechanismen
 1. Activation sympathetic nervous system
-2. Activation [[content/02 Areas/Geneeskunde/Nefrologie/RAAS|RAAS]]
+2. Activation [[content/02 Areas/Geneeskunde/Nefrologie/RAAS|RAAS]]  
 3. Release ANP/BNP
 ![[Hartfalen-6.png]]
 ![[Hartfalen-5.png]]

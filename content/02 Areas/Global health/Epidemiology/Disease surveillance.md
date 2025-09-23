@@ -4,7 +4,7 @@ tags:
   - global-health
 publish: true
 created: 2025-09-15T12:26
-modified: 2025-09-15T22:28
+modified: 2025-09-22T22:21
 ---
 **SURVEILLANCE IS A FUNDAMENTAL ROLE OF PUBLIC HEALTH**
 - it is the primary method to identify contaminants of emerginc concern, completeness of vaccination coverage, prevalence of drug-resistant organisms, [[Malaria]]…
@@ -39,3 +39,6 @@ Prevalence
 	- point prevalence = prevalence of the disease at a certain point in time
 	- period prevalence = prevalence of the disease at any point during a certain time period (have you ever had asthma during the last n years)
 
+Incidence = absolute risk
+
+Ratio or risk in exposed vs unexposed individuals = relative risk

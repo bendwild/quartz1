@@ -2,7 +2,7 @@
 tags:
 publish:
 created: 2025-09-15T22:22
-modified: 2025-09-18T06:22
+modified: 2025-09-22T10:46
 ---
 Mixed-method → impossible for time period, rather focus on qualitative
 Depending on depth or breadth, think of cooper vs other one
@@ -31,3 +31,17 @@ GBD, weinig data over africa
 Rates over africa moeten aangepast, verschil tussen epilepsie dat behandeld wordt in europa of africa
 
 VLIR-project (kijken voor wat er al ethische approval is)
+
+![[Pasted image 20250918104335.png]]
+
+Ocean Road Cancer Institute (ORCI) in Dar es Salaam
+
+**Look for papers in local language of place where you are researching**
+
+RSS feed pubmed
+
+Can i see your grant proposal or bibliography?
+
+I found a project that really inspires me. I hope to stay in touhc?
+
+
