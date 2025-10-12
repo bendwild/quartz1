@@ -7,7 +7,7 @@ tags:
   - level-0🫘
 publish: true
 created: 2025-04-20T00:08
-modified: 2025-06-13T16:16
+modified: 2025-10-11T21:26
 ---
  
 [[@ Hayao Miyazaki]]

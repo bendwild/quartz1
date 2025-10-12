@@ -1,9 +1,9 @@
 ---
 tags:
   - Filosofie
-publish: 
+publish:
 created: 2025-01-29T13:37
-modified: 2025-04-07T23:38
+modified: 2025-10-11T21:26
 ---
 
 

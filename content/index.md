@@ -2,8 +2,90 @@
 title: Welcome!
 publish: true
 created: 2025-01-17T22:17
-modified: 2025-06-22T14:21
+modified: 2025-10-11T21:53
 ---
+---
+title: Welcome to My Digital Swamp
+
+---
+
+<div class="socratica-marquee">
+  <div class="marquee-content">
+    digital garden • zettelkasten • second brain • personal wiki • knowledge base • PARA system • permanent notes • fleeting thoughts • digital garden • zettelkasten • second brain • personal wiki • knowledge base • PARA system • permanent notes • fleeting thoughts
+  </div>
+</div>
+
+<div class="socratica-hero">
+  <h1>Welcome to My Digital Swamp</h1>
+  <div class="socratica-subtitle">
+    <span>This is my messy little PKM system</span>
+    <span>•</span>
+    <a href="./02-Areas/Personal-growth/About-me">About me</a>
+    <span>•</span>
+    <a href="./02-Areas/Professional-growth/Personal-portfolio">Portfolio</a>
+    <span>•</span>
+    <a href="https://github.com/bendwild/quartz" target="_blank">Contribute</a>
+  </div>
+</div>
+
+<div class="issues-grid">
+  <a href="./01-Projects" class="issue-card">
+    <div class="issue-label">PARA System</div>
+    <div class="issue-number">Issue 001</div>
+    <h2 class="issue-title">Projects</h2>
+  </a>
+  
+  <a href="./02-Areas" class="issue-card">
+    <div class="issue-label">PARA System</div>
+    <div class="issue-number">Issue 002</div>
+    <h2 class="issue-title">Areas</h2>
+  </a>
+  
+  <a href="./03-Resources" class="issue-card">
+    <div class="issue-label">PARA System</div>
+    <div class="issue-number">Issue 003</div>
+    <h2 class="issue-title">Resources</h2>
+  </a>
+  
+  <a href="./04-Archive" class="issue-card">
+    <div class="issue-label">PARA System</div>
+    <div class="issue-number">Issue 004</div>
+    <h2 class="issue-title">Archives</h2>
+  </a>
+  
+  <a href="./05-Permanent" class="issue-card">
+    <div class="issue-label">Zettelkasten</div>
+    <div class="issue-number">Issue 005</div>
+    <h2 class="issue-title">Permanent Notes</h2>
+  </a>
+  
+  <a href="./05-Permanent/Pillars/Maturity-model" class="issue-card">
+    <div class="issue-label">The Swamp</div>
+    <div class="issue-number">Issue 006</div>
+    <h2 class="issue-title">Flora & Fauna</h2>
+  </a>
+  
+  <a href="./Logbook" class="issue-card">
+    <div class="issue-label">Meta</div>
+    <div class="issue-number">Issue 007</div>
+    <h2 class="issue-title">Logbook</h2>
+  </a>
+  
+  <div class="issue-card issue-coming-soon">
+    <div class="issue-label">The Swamp</div>
+    <div class="issue-number">Issue XXX</div>
+    <h2 class="issue-title">Coming Soon</h2>
+  </div>
+</div>
+
+## Why a Swamp?
+
+Swamps are messy but teeming with life. They're ecosystems of interconnected organisms, constantly shifting and adapting. Similarly, this digital swamp doesn't strive for perfection—it's about exploration and experimentation.
+
+Not every note here is polished or fully formed, and most of them will only make sense to me. However, hidden within the wilderness of unplanned hypertext sprawl, interesting creatures lie dormant.
+
+**Also... Shrek is an icon. 🐸**
+
 This is my digital swamp, my own private messy little [[Personal knowledge management]] system inspired by [zettelkasten](https://zettelkasten.de/overview/), [second braining](https://fortelabs.com/blog/basboverview/) and the [digital garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/) concept.
 
 What began as a structured repository for the ever-increasing number of medicine notes and summaries has transformed into a free-from, work-in progress wiki of my life. I write for myself, to exercise my mind and nurture ideas, but this swamp is open to all who wander in. I write in Dutch and English depending on the content. 

@@ -1,8 +1,8 @@
 ---
-tags: 
-publish: 
+tags:
+publish:
 created: 2025-08-20T15:31
-modified: 2025-08-20T15:58
+modified: 2025-10-11T21:26
 ---
 enhancing our perception of the present, perceive more
 

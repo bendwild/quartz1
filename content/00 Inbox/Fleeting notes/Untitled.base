@@ -9,5 +9,6 @@ views:
       - file.tags
       - file.mtime
       - file.embeds
+      - publish
   - type: cards
     name: View

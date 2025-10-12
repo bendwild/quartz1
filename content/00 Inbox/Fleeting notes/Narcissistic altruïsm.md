@@ -3,9 +3,9 @@ tags:
   - Ethics
   - level-1🌱
   - Filosofie
-publish: 
+publish:
 created: 2025-04-23T13:09
-modified: 2025-06-12T23:10
+modified: 2025-10-11T21:26
 ---
 dIs it ethical to good things for others, mainly for improving your own self-worth / feelings
 
