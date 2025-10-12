@@ -1,10 +1,13 @@
 ---
+title: Lesson 2 - Baba Yangu na Mama Yangu
 tags:
   - Swahili
 publish: true
+date: 2025-09-27
 created: 2025-09-27T20:04
-modified: 2025-09-30T23:57
+modified: 2025-10-11T20:07
 ---
+
 # Vocabulary
 Baba yangu:::My father
 <!--SR:!2025-10-01,4,270!2025-10-01,4,270-->
@@ -82,7 +85,7 @@ Huyu ni rafiki yangu:::This is my friend
 | **-enu**  | Your (pl.)      |
 | **-ao**   | Their           |
 
-|          | This | That |
-| -------- | ---- | ---- |
+|              | This | That |
+| ------------ | ---- | ---- |
 | **Singular** | Huyu | Yule |
 | **Plural**   | Hapa | Wale |
