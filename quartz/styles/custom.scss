@@ -1,6 +1,11 @@
+/* Import fonts - must come before @use */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;600;700&display=swap');
+
 @use "./base.scss";
 
-// put your custom CSS here!
+/* ========================================
+   EXISTING CUSTOM STYLES
+   ======================================== */
 
 .article-title {
     font-size: 2rem;
@@ -9,16 +14,15 @@
 
 table {
   border-collapse: collapse;
-  table-layout: auto; /* key: column width adapts to content */
-  max-width: 100%;            /* prevent overflow */
-  word-break: break-word;     /* break long words */
-  overflow-wrap: anywhere;    /* extra safety for long URLs */
+  table-layout: auto;
+  max-width: 100%;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
-/* Socratica-inspired custom styles for Quartz */
-
-/* Import a monospace/editorial font */
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;600;700&display=swap');
+/* ========================================
+   SOCRATICA-INSPIRED STYLES
+   ======================================== */
 
 :root {
   --marquee-bg: #000;
@@ -162,17 +166,23 @@ table {
   background: white;
 }
 
-/* Typography adjustments */
-body {
+/* Typography adjustments (optional - only affects Socratica sections) */
+.socratica-layout {
   font-family: 'Inter', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.socratica-layout h1,
+.socratica-layout h2,
+.socratica-layout h3,
+.socratica-layout h4,
+.socratica-layout h5,
+.socratica-layout h6 {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
 }
 
-code, pre {
+.socratica-layout code,
+.socratica-layout pre {
   font-family: 'Space Mono', monospace;
 }
 
