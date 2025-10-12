@@ -14,3 +14,202 @@ table {
   word-break: break-word;     /* break long words */
   overflow-wrap: anywhere;    /* extra safety for long URLs */
 }
+
+/* Socratica-inspired custom styles for Quartz */
+
+/* Import a monospace/editorial font */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;600;700&display=swap');
+
+:root {
+  --marquee-bg: #000;
+  --marquee-text: #fff;
+  --issue-border: #333;
+  --card-hover: #f5f5f5;
+}
+
+/* Animated Marquee */
+.socratica-marquee {
+  background: var(--marquee-bg);
+  color: var(--marquee-text);
+  padding: 0.75rem 0;
+  overflow: hidden;
+  white-space: nowrap;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.875rem;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--issue-border);
+}
+
+.marquee-content {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 30s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+
+/* Hero/Title Section */
+.socratica-hero {
+  text-align: center;
+  padding: 4rem 2rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.socratica-hero h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.socratica-subtitle {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.socratica-subtitle a {
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid currentColor;
+  transition: color 0.2s;
+}
+
+.socratica-subtitle a:hover {
+  color: #000;
+}
+
+.socratica-subtitle span {
+  color: #ccc;
+}
+
+/* Issue Grid Layout */
+.issues-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 3rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.issue-card {
+  border: 2px solid var(--issue-border);
+  padding: 2rem;
+  text-align: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.issue-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.1);
+  background: var(--card-hover);
+}
+
+.issue-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999;
+  margin-bottom: 0.5rem;
+}
+
+.issue-number {
+  font-family: 'Space Mono', monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.issue-title {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0;
+}
+
+.issue-coming-soon {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.issue-coming-soon:hover {
+  transform: none;
+  box-shadow: none;
+  background: white;
+}
+
+/* Typography adjustments */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+code, pre {
+  font-family: 'Space Mono', monospace;
+}
+
+/* Dark mode adjustments */
+:root[saved-theme="dark"] {
+  --marquee-bg: #fff;
+  --marquee-text: #000;
+  --issue-border: #666;
+  --card-hover: #1a1a1a;
+}
+
+:root[saved-theme="dark"] .issue-card {
+  background: #0a0a0a;
+  border-color: var(--issue-border);
+}
+
+:root[saved-theme="dark"] .issue-card:hover {
+  background: var(--card-hover);
+}
+
+:root[saved-theme="dark"] .issue-coming-soon:hover {
+  background: #0a0a0a;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .socratica-hero h1 {
+    font-size: 2rem;
+  }
+  
+  .issues-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 2rem 1rem;
+  }
+  
+  .marquee-content {
+    animation: marquee 20s linear infinite;
+  }
+}
