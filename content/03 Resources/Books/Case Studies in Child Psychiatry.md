@@ -13,6 +13,6 @@ rating:
   - ⭐⭐⭐⭐
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-04-12T21:20
+modified: 2025-10-11T21:55
 ---
 Interesting and authentic. Idea to incorporate in the my future practice...
