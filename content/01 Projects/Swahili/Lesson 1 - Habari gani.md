@@ -2,8 +2,8 @@
 tags:
   - Swahili
 publish: true
-created: 2025-07-01T21:25
-modified: 2025-09-30T23:57
+created: 2025-10-11T19:39
+modified: 2025-10-11T19:45
 ---
 # Vocabulary
 Karibu:::Welcome
