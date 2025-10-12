@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-06-13T14:17
-modified: 2025-06-15T23:33
+modified: 2025-10-11T21:17
 ---
 Key messages: 
 1. Use the financial and organisational assets of your hospitals to **integrate ecological changes within the surrounding community**

@@ -1,6 +1,6 @@
 ---
 created: 2025-04-02T20:22
-modified: 2025-04-08T23:33
+modified: 2025-10-11T21:17
 description: |-
   - my pediatrics internship is chiller than I thought, kinda boring though 
   - lots of social events, need to study more though haha
