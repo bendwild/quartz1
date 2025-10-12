@@ -1,8 +1,8 @@
 ---
 tags:
-publish: true
+publish: false
 created: 2025-10-02T22:00
-modified: 2025-10-09T23:03
+modified: 2025-10-11T21:14
 ---
  ![[Pasted image 20251002220309.png]]
  
