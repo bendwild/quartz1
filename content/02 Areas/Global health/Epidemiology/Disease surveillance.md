@@ -2,43 +2,106 @@
 tags:
   - Epidemiology
   - global-health
+  - Mt-e-1
 publish: true
 created: 2025-09-15T12:26
-modified: 2025-09-22T22:21
+modified: 2025-10-05T19:18
 ---
+# Background
+
 **SURVEILLANCE IS A FUNDAMENTAL ROLE OF PUBLIC HEALTH**
-- it is the primary method to identify contaminants of emerginc concern, completeness of vaccination coverage, prevalence of drug-resistant organisms, [[Malaria]]…
+→ it is the primary method to identify contaminants of emerging concern, completeness of vaccination coverage, prevalence of drug-resistant organisms, [[Malaria]]…
 
-Passive vs Active surveillance
+--- start-multi-column: ID_nbsw
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
 
-Passive: 
+## Passive surveillance 
 - available data on reportable diseases are used (mandated or requested by some kind of authority)
 - completeness and quality of the data largely depends on individual or staff (CAVE underreporting, lack of completeness)
 - relatively inexpensive and easy to develop
 - risk of overburdening primary responsibilities of healthcare providers ([[Mission creep]])
 
-Active: 
+--- column-break ---
+## Active surveillance
 - project staff specifically recruited to carry out a surveillance program
 - generally more accurate than passive
 
-Occurrence of disease can be measured using **rates** or **proportions**
-- rates = how fast the disease is occurring in a population
-	- incidence rate = number of **new** cases of a disease that occur during a specifiec period of time, in a population **at risk** for developing the disease
-		- ![[Pasted image 20250915123758.png]]
-		- = measure of events (transition from non-diseased to diseased state) = **measure of risk**
-	- attack rate
-		- number of people exposed to f.e. a suspect food who became ill, divided by the number of people who were exposed to that food
-	- prevalence
-- proportions = what fraction of the population is affected
+--- end-multi-column
 
-Prevalence
-- number of affected persons present in the population at a specific time divided by the number of persons in the population at that time
-- ![[Pasted image 20250915222535.png]]
+# Disease measures
+
+--- start-multi-column: ID_842m
+
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+```
+## Incidence
+
+= number of **new** cases of a disease that occur during a specific period of time, in a population **at risk** for developing the disease
+- cumulative incidence = **absolute risk**
+
+![[Pasted image 20250915123758.png]]
+
+--- column-break ---
+
+## Prevalence
+
+= [[#Incidence]] x duration
+= number of affected persons present in the population at a specific time divided by the number of persons in the population (**point or period prevalence**)
 - serves more as a snapshot in a point of time
 - **cannot measure risk with this** → use incidence
-	- point prevalence = prevalence of the disease at a certain point in time
-	- period prevalence = prevalence of the disease at any point during a certain time period (have you ever had asthma during the last n years)
 
-Incidence = absolute risk
+![[Pasted image 20250915222535.png]]
 
-Ratio or risk in exposed vs unexposed individuals = relative risk
+--- end-multi-column
+
+> [!Attention] When does disease prevalence go down?
+> - lower incidence
+> - higher cure rates
+> - higher death rates
+> - ![[Pasted image 20251005125204.png]]
+
+# Measures of association
+## Risk 
+ 
+![[Pasted image 20251005143748.png]]
+
+![[Pasted image 20251005143804.png]]
+![[Pasted image 20251005143834.png]]
+> [!Attention] No risk in [[Case-control study]]
+> - number of cases and controls is chosen by design
+> - proportion of diseased vs non-diseased is fix
+> = use ODDS
+
+> [!INFO] Risk ratio = relative risk
+
+## Rate
+![[Pasted image 20251005143918.png]]
+
+![[Pasted image 20251005144001.png]]
+
+> [!INFO] Usually rate ratios and risk ratios are pretty close
+
+> [!INFO] Person-time
+> The time (commonly expressed in years) that a study subject or a group of subjects were in the study
+
+## Odds 
+![[Pasted image 20251005144254.png]]
+![[Pasted image 20251005144214.png]]
+
+
+![[Pasted image 20251005144310.png]]
+
+> [!ATTENTION] What is an odds ratio?
+> = approximation of risk
+> - if disease is rare
+> - if [[Case-control study]]
+
+> [!INFO] How to interpret odds ratio?
+> - OR = 1 (no association)
+> - OR > 1 (positive association)
+> - OR < 1 (negative association)

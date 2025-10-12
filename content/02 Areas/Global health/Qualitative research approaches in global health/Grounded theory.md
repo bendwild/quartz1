@@ -1,10 +1,10 @@
 ---
 tags:
   - Qualitative-research
-  - global-health
+  - Mt-q-1
 publish: true
 created: 2025-09-19T22:32
-modified: 2025-09-20T21:15
+modified: 2025-10-11T17:28
 ---
 # Reflections
 Some tips for interviewers: 
@@ -18,3 +18,9 @@ Some tips for interviewers:
 
 # Book
 ![[Charmaz_Practical Guide Grounded Theory.pdf]]
+
+## Chapter 6: focused coding & beyond
+![[Charmaz 2nd Ed Chapter 6.pdf]]
+
+## Chapter 7: Memo-writing
+![[Charmaz - 2nd edition_Chapter 7-Memo-writing.pdf]]

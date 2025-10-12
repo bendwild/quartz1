@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("global-health")
+    order:
+      - file.name
+      - file.tags
+      - file.mtime
+      - file.embeds
+  - type: cards
+    name: View

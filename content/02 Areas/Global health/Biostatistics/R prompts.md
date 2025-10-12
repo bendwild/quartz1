@@ -1,10 +1,9 @@
 ---
 tags:
   - Biostatistics
-  - global-health
 publish: true
 created: 2025-09-17T09:56
-modified: 2025-09-17T11:29
+modified: 2025-10-01T18:03
 ---
 Basic rule: NAMEFILE$VARIABLE
 
