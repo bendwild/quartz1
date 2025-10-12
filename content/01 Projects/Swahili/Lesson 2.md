@@ -2,10 +2,9 @@
 title: Lesson 2 - Baba Yangu na Mama Yangu
 tags:
   - Swahili
-publish: true
-date: 2025-09-27
+publish: false
 created: 2025-09-27T20:04
-modified: 2025-10-11T20:07
+modified: 2025-10-11T20:13
 ---
 
 # Vocabulary
