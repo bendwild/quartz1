@@ -1,9 +1,10 @@
 ---
+title: Lesson 1 - Habari Gani
 tags:
   - Swahili
 publish: true
-created: 2025-10-11T19:39
-modified: 2025-10-11T19:45
+created: 2025-10-11T19:46
+modified: 2025-10-11T19:50
 ---
 # Vocabulary
 Karibu:::Welcome
