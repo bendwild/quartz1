@@ -69,14 +69,7 @@ colors: {
         },
         keepBackground: false,
       }),
-      // Custom transformer to remove Obsidian Spaced Repetition comments
-      {
-        name: "RemoveSRComments",
-        textTransform(_ctx, src) {
-          // Remove all <!--SR:...–-> comments that break Quartz parsing
-          return src.replace(/<!--SR:.*?-->/gs, "")
-        },
-      },
+   
       Plugin.ObsidianFlavoredMarkdown({ 
         enableInHtmlEmbed: true,
         enableCheckbox: true
