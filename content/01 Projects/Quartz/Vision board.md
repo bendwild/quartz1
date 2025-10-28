@@ -4,7 +4,7 @@ tags:
   - Quartz
 publish: true
 created: 2025-04-23T14:02
-modified: 2025-10-11T21:55
+modified: 2025-10-28T11:16
 ---
 # what is?
 → love the minimalism

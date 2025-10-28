@@ -10,5 +10,7 @@ views:
       - file.mtime
       - file.embeds
       - publish
+    columnSize:
+      file.name: 349
   - type: cards
     name: View
