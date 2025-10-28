@@ -4,7 +4,7 @@ tags:
   - Psychiatrie
 publish: true
 created: 2025-01-16T22:12
-modified: 2025-06-12T22:56
+modified: 2025-10-20T13:33
 ---
 # Schizofrenie & aanverwanten
 
@@ -21,7 +21,6 @@ modified: 2025-06-12T22:56
 | **Effect**     | Blokkade in **mesolimbische baan** → bestrijden van positieve symptomen                                                                                                                                                                                                                                              | Bestrijden positieve symptomen (met minder bijwerkingen)  <br>  <br>Gunstige werking op negatieve symptomen  <br>→ betere resocialisatie     |                                                                                                              |
 | **Bijwerking** | Blokkade in **nigrostriataal systeem**:  <br>- acuut →  <br>**extra-piramidaal systeem** (reversibel)  <br>- chronisch →  <br>**tardieve dyskinesie** (5-10%) (**niet**-reversibel)  <br>  <br>Blokkade  <br>**frontale (mesocorticale) baan:**  <br>- toename van negatieve -, cognitieve - en affectieve symptomen | **Agranulocytose bij clozapine**→ regelmatige controle WBC(-formule) essentieel  <br>  <br>  <br>**Metabool syndroom  <br>  <br>**  <br>DUUR |                                                                                                              |
 | **Voorbeeld**  | Haloperidol                                                                                                                                                                                                                                                                                                          | Clozapine  <br>Risperidone  <br>Paliperidone  <br>Quetiapine  <br>Olanzapine                                                                 | Aripriprazole                                                                                                |
-
 
 > [!important]  
 > Long-acting-injectables → voor betere compliance, wel meer invasief

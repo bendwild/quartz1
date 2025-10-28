@@ -1,10 +1,9 @@
 ---
 tags:
   - Epidemiology
-  - Mt-e-1
 publish: true
 created: 2025-10-05T12:55
-modified: 2025-10-05T19:52
+modified: 2025-10-19T23:09
 ---
 > [!info] Base question
 > Who gets the outcome (disease) in the exposed & unexposed

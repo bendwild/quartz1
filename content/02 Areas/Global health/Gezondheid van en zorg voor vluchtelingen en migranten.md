@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-03-07T13:55
-modified: 2025-10-11T21:54
+modified: 2025-10-21T15:08
 ---
 # Terminologie rond migratie
 Migrant =/= vluchteling
@@ -98,3 +98,5 @@ Istanbul protocol
 	- queer mannen uit SSA
 - gestandardiseerde registratie van fysieke & mentale gevolgen
 - kan verschil maken voor erkenning
+
+/zoter

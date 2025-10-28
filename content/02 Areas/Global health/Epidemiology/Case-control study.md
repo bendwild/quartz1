@@ -1,10 +1,9 @@
 ---
 tags:
   - Epidemiology
-  - Mt-e-1
 publish: true
 created: 2025-09-21T17:01
-modified: 2025-10-05T19:38
+modified: 2025-10-21T11:35
 ---
 > [!info] Base question
 > Were cases more likely to have been exposed than controls?
@@ -32,14 +31,14 @@ Largest Column: standard
 
 **Group matching** = proportion of controls of a characteristic is identical to proportion of cases with the same characteristics
 - less detail
-- risk for bias
+- risk for [[bias]]
 - easier
 
 --- column-break ---
 
 **Individual matching** = for each case selected a similar control is selected
 - more detail
-- less risk for bias
+- less risk for [[bias]]
 - extremely difficult
 
 --- end-multi-column
@@ -77,8 +76,8 @@ Largest Column: standard
 - using incident or prevalent cases
 	- it is generally **preferable to use incident cases** of disease in case-control studies (any risk factors may be related to survival more than the development/incidence of the disease)
 - sources of controls
-- Information bias
-- Recall bias
+- Information [[bias]]
+- Recall [[bias]]
 
 # Variations
 ## Case-control studies embedded in a cohort
@@ -93,8 +92,8 @@ Largest Column: standard
 
 ![[Pasted image 20251005144557.png]]
 - controls are a sample of individuals who are **at risk for the disease at the time each case of the disease develops** (time-matched!)
-- possibility of recall bias is eliminated (data on exposure is obtained before the disease develops)
-- additionally confounders such as improvements in diagnostics are eliminated
+- possibility of recall [[bias]] is eliminated (data on exposure is obtained before the disease develops)
+- additionally [[confounders]] such as improvements in diagnostics are eliminated
 
 --- column-break ---
 
@@ -121,7 +120,7 @@ Pro
 --- column-break ---
 
 Con
-- possible recall bias
+- possible recall [[bias]]
 - need for good understanding of etiology of disease and predisposing factors
 - possible overmatching
 

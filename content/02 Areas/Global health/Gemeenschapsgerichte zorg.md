@@ -5,7 +5,7 @@ tags:
   - level-1🌱
 publish: true
 created: 2025-03-07T15:19
-modified: 2025-10-11T21:54
+modified: 2025-10-21T01:15
 ---
 Evolutie in de HAGK
 - van ziektegericht eerder naar

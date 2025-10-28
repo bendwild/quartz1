@@ -3,7 +3,7 @@ tags:
   - Professional-growth
 publish: true
 created: 2025-04-04T23:50
-modified: 2025-06-13T16:16
+modified: 2025-10-22T00:14
 ---
 *A brief look at the path ahead, to infinity and beyond*
 
@@ -49,5 +49,7 @@ modified: 2025-06-13T16:16
 	- tropische geneeskunde
 	- jeugdgezondheidszorg
 	-  [Global Health and Humanitarian Medicine course](https://msf.org.uk/global-health-and-humanitarian-medicine-course)
+- after 2-3 years of work experience
+	- https://www.ecdc.europa.eu/en/about-ecdc/work-ecdc/call-application-ecdc-fellowship-programme-epiet-and-euphem-paths-eu-track
 
 

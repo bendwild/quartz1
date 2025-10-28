@@ -1,10 +1,9 @@
 ---
 tags:
   - Epidemiology
-  - Mt-e-1
 publish: true
 created: 2025-10-05T14:58
-modified: 2025-10-05T19:48
+modified: 2025-10-19T23:09
 ---
 > [!info] Basic principles
 > - unit of analysis is population/group rather than the individual

@@ -1,10 +1,9 @@
 ---
 tags:
   - Qualitative-research
-  - Mt-q-1
 publish: true
 created: 2025-09-10T17:26
-modified: 2025-10-05T00:14
+modified: 2025-10-19T14:56
 ---
 # Notes
 ## What is it?
